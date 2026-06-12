@@ -1,5 +1,7 @@
 # The Year 2006
 
+> **Status: Mature** — This generation is complete (3 growth ticks, 12 knowledge-table rows, 8 dedicated topic files). The successor knowledge base covering **the year 2007** has been spawned at [year-of-ai/2007](https://github.com/year-of-ai/2007).
+
 A self-growing knowledge base about **the year 2006** — history, science, technology, arts, society, and people.
 
 This repository is both a knowledge base and a reusable framework. It expands autonomously via `/grow`, which researches new on-topic content, builds structure, verifies facts, and publishes — all driven by the Concept Definition in [`seed.md`](seed.md). To retarget the framework at a different subject, run `/genesis "<new concept>"`.

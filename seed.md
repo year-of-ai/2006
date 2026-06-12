@@ -46,6 +46,8 @@ publishes — all driven by the Concept Definition above. The framework is **con
 point it at a different subject and it grows a different knowledge base. 1987 is the reference
 instance; 2006 is the current instance, spawned from the year 2005.
 
+**Generation status: mature** — 3 ticks completed; successor spawned as [year-of-ai/2007](https://github.com/year-of-ai/2007) (the year 2007).
+
 ## 3. Architecture (customization layer)
 
 Generic, concept-agnostic files in `.github/`. None hardcode 2006 — they read the concept from this
@@ -229,5 +231,22 @@ linked article:
 **Record** — `ROADMAP.md` reconciled (3 deep-dives + structure refresh → Done; Now refilled with
 Montenegro independence, PS3/Wii launches, and a structure refresh item); `seed.md` §4–5 inventories
 synced (8 topic files, 8 linked rows).
+
+---
+
+### Replant — 2026-06-12
+
+Generation closed for **the year 2006** after **3 growth ticks**. Final state: 12 knowledge-table rows, 8 dedicated topic files across 4 taxonomy categories (History & Politics ×2, Science & Technology ×3, Arts & Culture ×2, Society & Economics ×1), 5 category index pages, TIMELINE.md, INDEX.md, and cross-reference blocks in all 8 topic files.
+
+**Finalization steps performed:**
+- `build-structure` verified all generated artifacts current (no diff — structure settled at end of tick 3).
+- ROADMAP compacted: Now/Backlog items moved to Ideas with "deferred at replant" notation; Done preserves the generation's full record.
+- `seed.md` §2 updated to note mature status and successor link.
+- `lifecycle.yml` state updated: `status: mature`; `year-of-ai/2006` lineage entry set to `mature`; `year-of-ai/2007` appended as `growing`.
+- `README.md` status banner added naming `year-of-ai/2007` as successor.
+
+**Successor spawned:** `year-of-ai/2007` — the year 2007, public repository under the same owner. Planted with the verbatim `.github/` and `.claude/` framework layers, `CLAUDE.md`, `LIFECYCLE.md`, `.gitignore`, and a fresh `lifecycle.yml` carrying the full lineage (2005 → 2006 → 2007). Germination bootstrapped via `/genesis "the year 2007"` (seed.md, README.md, ROADMAP.md written for 2007); first scheduled `/grow` tick will detect and begin growing.
+
+**Lineage:** 3 of 7 members toward consolidation (origin `bamr87/1987` + members: year-of-ai/2005, year-of-ai/2006, year-of-ai/2007).
 
 ---
