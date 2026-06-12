@@ -78,16 +78,16 @@ seed.
 ## 4. Content Inventory
 
 - **Taxonomy:** History & Politics, Science & Technology, Arts & Culture, Society & Economics, People.
-- **Knowledge table:** `README.md` → `## Notable Events of 2006` (12 rows; 5 rows link to dedicated files).
-- **Dedicated topic files:** 5 — `history-politics/north-korea-nuclear-test.md`, `history-politics/saddam-hussein-execution.md`, `science-technology/pluto-dwarf-planet.md`, `science-technology/twitter-launch.md`, `arts-culture/fifa-world-cup-2006.md`.
+- **Knowledge table:** `README.md` → `## Notable Events of 2006` (12 rows; 8 rows link to dedicated files).
+- **Dedicated topic files:** 8 — `history-politics/north-korea-nuclear-test.md`, `history-politics/saddam-hussein-execution.md`, `science-technology/pluto-dwarf-planet.md`, `science-technology/twitter-launch.md`, `science-technology/google-acquires-youtube.md`, `arts-culture/fifa-world-cup-2006.md`, `arts-culture/casino-royale-daniel-craig.md`, `society-economics/time-you-person-of-the-year.md`.
 
 ## 5. Structure Inventory
 
 Generated artifacts (maintained by `build-structure`):
-- `TIMELINE.md` — generated; 12 chronological rows from the knowledge table (5 linked to topic files).
+- `TIMELINE.md` — generated; 12 chronological rows from the knowledge table (8 linked to topic files).
 - Category index pages `<category-slug>/index.md` — generated for all 5 taxonomy categories.
 - `INDEX.md` — generated; master TOC grouping all 12 events by category.
-- Cross-reference `## Related` blocks — present in all 5 dedicated topic files.
+- Cross-reference `## Related` blocks — present in all 8 dedicated topic files.
 
 ## 6. Growth Loop
 
@@ -196,5 +196,38 @@ People and Society & Economics indices retained their entries.
 **Record** — `ROADMAP.md` reconciled (3 deep-dives + the structure refresh → Done; Now refilled with
 Google/YouTube, *Casino Royale*, and *Time* "You" deep-dives); `seed.md` §4–5 inventories synced
 (5 topic files, 5 linked rows). `lifecycle.yml` generation tick counter reconciled to 2.
+
+---
+
+### Tick 3: Three Deep-Dives + Structure Refresh — 2026-06-12
+
+Third autonomous growth tick, run in **shepherd mode** by the mature predecessor (`year-of-ai/2005`)
+walking the lineage to this newest member. Lifecycle gate: `grow` (generation_ticks 2/3, lineage 2/7).
+Framework first synced from the lineage driver (`.claude/agents/`, `CLAUDE.md`, `LIFECYCLE.md` updated;
+`.github/workflows/grow.yml` excluded — PAT lacks workflow scope).
+
+**Content** — three deep-dives researched (≥2 authoritative sources each, one encyclopedic + one
+specialist) and verified in-scope for 2006; each converted its existing knowledge-table row into a
+linked article:
+- `science-technology/google-acquires-youtube.md` — Google's $1.65B all-stock acquisition of YouTube
+  (Oct 9, 2006); sources: Wikipedia, Britannica, NBC News, SEC Form 8-K filing.
+- `arts-culture/casino-royale-daniel-craig.md` — *Casino Royale* theatrical release (Nov 17, 2006);
+  Daniel Craig reboot; sources: Wikipedia, IMDb, Box Office Mojo, Rotten Tomatoes.
+- `society-economics/time-you-person-of-the-year.md` — *Time* "You" Person of the Year announced
+  (Dec 16, 2006); sources: Wikipedia, Time.com archive, NBC News.
+- README knowledge table now resolves 8 of 12 rows to dedicated files.
+
+**Structure** — `build-structure` artifacts refreshed:
+- `TIMELINE.md` — 3 additional rows linked (8 of 12 now resolve to topic files); Casino Royale date
+  corrected from Nov 14 to Nov 17 per verified sources.
+- `INDEX.md` — 3 unlinked rows updated with file links.
+- `science-technology/index.md`, `arts-culture/index.md`, `society-economics/index.md` — unlinked rows
+  updated with file links for the 3 new topic files.
+- `## Related` cross-reference blocks added to all 3 new topic files; `twitter-launch.md` Related
+  block updated to include Google/YouTube and *Time* POTY links.
+
+**Record** — `ROADMAP.md` reconciled (3 deep-dives + structure refresh → Done; Now refilled with
+Montenegro independence, PS3/Wii launches, and a structure refresh item); `seed.md` §4–5 inventories
+synced (8 topic files, 8 linked rows).
 
 ---

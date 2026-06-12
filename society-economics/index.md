@@ -5,6 +5,6 @@ Category index for the **Society & Economics** topics within the [2006 Knowledge
 
 | Topic | Description |
 |-------|-------------|
-| *Time* names "You" Person of the Year | Recognized user-generated content and the rise of Web 2.0, December. |
+| [*Time* names "You" Person of the Year](time-you-person-of-the-year.md) | Recognized user-generated content and the rise of Web 2.0, December. |
 
 <!-- END GENERATED: category-index -->

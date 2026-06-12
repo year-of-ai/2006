@@ -7,19 +7,19 @@
 
 | Item | Tag | Notes |
 |---|---|---|
-| Deep-dive: Google acquires YouTube (Oct 9, 2006) | content | high | $1.65B deal; Web 2.0 anchor, pairs with the Twitter deep-dive. |
-| Deep-dive: *Casino Royale* / Daniel Craig reboot (Nov 2006) | content | medium | Second Arts & Culture deep-dive. |
-| Deep-dive: *Time* "You" Person of the Year (Dec 2006) | content | medium | First Society & Economics deep-dive; ties the Web 2.0 thread together. |
+| Deep-dive: Montenegro independence (Jun 3, 2006) | content | medium | First unlinked History & Politics item; fills gap in coverage. |
+| Deep-dive: PlayStation 3 and Nintendo Wii launches (Nov 2006) | content | medium | Seventh-generation console launch; Science & Technology. |
+| Refresh structure (indices, timeline, INDEX, crossrefs) for new topic files | structure | — |
 
 ## Backlog
 
 | Item | Tag | Priority |
 |---|---|---|
-| Deep-dive: Montenegro independence (Jun 3, 2006) | content | medium |
 | Deep-dive: Steve Irwin death (Sep 4, 2006) | content | medium |
 | Deep-dive: Gerald Ford death (Dec 26, 2006) | content | low |
 | Deep-dive: U.S. Democrats win 2006 midterms (Nov 7, 2006) | content | low |
-| Add new knowledge-table rows from Ideas (spaceflight, PS3/Wii, Facebook, Lebanon War) | content | medium |
+| Deep-dive: Facebook opens to the public (Sep 26, 2006) | content | medium |
+| Add new knowledge-table rows from Ideas (spaceflight, Lebanon War, Litvinenko) | content | medium |
 | Periodic /evolve audit of .github/ layer | meta | low |
 
 ## Done
@@ -37,6 +37,10 @@
 | Generate master INDEX.md | structure | 2026-06-12 |
 | Add cross-reference ## Related blocks to topic files | structure | 2026-06-12 |
 | Refresh structure (indices, timeline, INDEX, crossrefs) for new topic files | structure | 2026-06-12 |
+| Deep-dive: Google acquires YouTube (Oct 9, 2006) | content | 2026-06-12 |
+| Deep-dive: *Casino Royale* / Daniel Craig reboot (Nov 2006) | content | 2026-06-12 |
+| Deep-dive: *Time* "You" Person of the Year (Dec 2006) | content | 2026-06-12 |
+| Refresh structure: link new files in indices, timeline, INDEX, crossrefs | structure | 2026-06-12 |
 
 ## Ideas
 

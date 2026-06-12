@@ -32,5 +32,7 @@ In subsequent years Twitter became a central venue for breaking news and politic
 ## Related
 
 - [Pluto Reclassified as a Dwarf Planet](pluto-dwarf-planet.md) — the year's other landmark Science & Technology development covered in depth.
+- [Google Acquires YouTube](google-acquires-youtube.md) — Google's $1.65B acquisition of YouTube in October 2006 was the other defining Web 2.0 milestone of the year.
+- [*Time* Names "You" Person of the Year](../society-economics/time-you-person-of-the-year.md) — Twitter's launch contributed to *Time* recognizing user-generated content as the year's defining force.
 - See the full [Timeline of 2006](../TIMELINE.md) and master [Index](../INDEX.md) for concurrent events.
 <!-- END GENERATED: crossrefs -->

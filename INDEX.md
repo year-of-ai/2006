@@ -18,20 +18,20 @@ A complete map of all content, organized by category. See also [TIMELINE.md](TIM
 |-------|-------------|
 | [Pluto reclassified as a dwarf planet](science-technology/pluto-dwarf-planet.md) | IAU redefined "planet" August 24; Solar System reduced to eight. |
 | [Twitter launched](science-technology/twitter-launch.md) | Microblogging service publicly launched July 15. |
-| Google acquires YouTube | $1.65 billion stock acquisition announced October 9. |
+| [Google acquires YouTube](science-technology/google-acquires-youtube.md) | $1.65 billion stock acquisition announced October 9. |
 
 ## Arts & Culture ([index](arts-culture/index.md))
 
 | Topic | Description |
 |-------|-------------|
-| *Casino Royale* released | Daniel Craig debuts as 007; franchise rebooted, November 14. |
+| [*Casino Royale* released](arts-culture/casino-royale-daniel-craig.md) | Daniel Craig debuts as 007; franchise rebooted, November 2006. |
 | [Italy wins the FIFA World Cup](arts-culture/fifa-world-cup-2006.md) | Italy beat France on penalties July 9 for a fourth title. |
 
 ## Society & Economics ([index](society-economics/index.md))
 
 | Topic | Description |
 |-------|-------------|
-| *Time* names "You" Person of the Year | Recognized user-generated content and the rise of Web 2.0, December. |
+| [*Time* names "You" Person of the Year](society-economics/time-you-person-of-the-year.md) | Recognized user-generated content and the rise of Web 2.0, December. |
 
 ## People ([index](people/index.md))
 
