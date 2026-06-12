@@ -31,6 +31,7 @@ The event reshaped East Asian security dynamics, intensifying concerns in South 
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 ## Related
 
-- [Pluto Reclassified as a Dwarf Planet](../science-technology/pluto-dwarf-planet.md) — the year's other landmark development covered in depth, marking 2006 in science as this event marked it in security.
+- [Execution of Saddam Hussein](saddam-hussein-execution.md) — the year's other defining History & Politics event, occurring weeks later as Iraq closed its own post-2003 chapter.
+- [Pluto Reclassified as a Dwarf Planet](../science-technology/pluto-dwarf-planet.md) — a 2006 scientific landmark, marking the year in science as this event marked it in security.
 - See the full [Timeline of 2006](../TIMELINE.md) and master [Index](../INDEX.md) for concurrent events.
 <!-- END GENERATED: crossrefs -->

@@ -31,6 +31,7 @@ The reclassification drew substantial public attention and controversy, with con
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 ## Related
 
+- [Launch of Twitter](twitter-launch.md) — the year's other landmark Science & Technology development covered in depth.
 - [North Korea's First Nuclear Test](../history-politics/north-korea-nuclear-test.md) — the year's defining geopolitical security event, concurrent with this scientific milestone.
 - See the full [Timeline of 2006](../TIMELINE.md) and master [Index](../INDEX.md) for concurrent events.
 <!-- END GENERATED: crossrefs -->

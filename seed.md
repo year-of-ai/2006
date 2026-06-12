@@ -78,16 +78,16 @@ seed.
 ## 4. Content Inventory
 
 - **Taxonomy:** History & Politics, Science & Technology, Arts & Culture, Society & Economics, People.
-- **Knowledge table:** `README.md` → `## Notable Events of 2006` (12 rows; 2 rows link to dedicated files).
-- **Dedicated topic files:** 2 — `history-politics/north-korea-nuclear-test.md`, `science-technology/pluto-dwarf-planet.md`.
+- **Knowledge table:** `README.md` → `## Notable Events of 2006` (12 rows; 5 rows link to dedicated files).
+- **Dedicated topic files:** 5 — `history-politics/north-korea-nuclear-test.md`, `history-politics/saddam-hussein-execution.md`, `science-technology/pluto-dwarf-planet.md`, `science-technology/twitter-launch.md`, `arts-culture/fifa-world-cup-2006.md`.
 
 ## 5. Structure Inventory
 
 Generated artifacts (maintained by `build-structure`):
-- `TIMELINE.md` — generated; 12 chronological rows from the knowledge table (2 linked to topic files).
+- `TIMELINE.md` — generated; 12 chronological rows from the knowledge table (5 linked to topic files).
 - Category index pages `<category-slug>/index.md` — generated for all 5 taxonomy categories.
 - `INDEX.md` — generated; master TOC grouping all 12 events by category.
-- Cross-reference `## Related` blocks — present in both dedicated topic files.
+- Cross-reference `## Related` blocks — present in all 5 dedicated topic files.
 
 ## 6. Growth Loop
 
@@ -166,5 +166,35 @@ walking the lineage to this newest member. Lifecycle gate: `grow` (generation_ti
 **Record** — `ROADMAP.md` reconciled (5 items → Done; Now refilled with Twitter, Saddam execution,
 and FIFA World Cup deep-dives); `seed.md` §4–5 inventories synced (2 topic files, all structure
 artifacts present).
+
+---
+
+### Tick 2: Three Deep-Dives + Structure Refresh — 2026-06-12
+
+Second autonomous growth tick, again run in **shepherd mode** by the mature predecessor
+(`year-of-ai/2005`) walking the lineage to this newest member. Lifecycle gate: `grow`
+(generation_ticks 1/3, lineage 1/7).
+
+**Content** — three deep-dives researched (≥2 authoritative sources each, one encyclopedic + one
+specialist) and verified in-scope for 2006; each converted its existing knowledge-table row into a
+linked article:
+- `science-technology/twitter-launch.md` — public launch of Twitter (Jul 15, 2006); sources:
+  Wikipedia (History of Twitter) + HISTORY.
+- `history-politics/saddam-hussein-execution.md` — execution of Saddam Hussein (Dec 30, 2006);
+  sources: Wikipedia + Britannica.
+- `arts-culture/fifa-world-cup-2006.md` — 2006 FIFA World Cup final, Italy's fourth title and the
+  Zidane headbutt (Jul 9, 2006); sources: Wikipedia + Bleacher Report. First Arts & Culture deep-dive.
+- README knowledge table now resolves 5 of 12 rows to dedicated files.
+
+**Structure** — `build-structure` artifacts refreshed for the three new topic files: `TIMELINE.md`
+(5 of 12 rows now linked), `INDEX.md`, all five `<category-slug>/index.md` pages, and `## Related`
+cross-reference blocks added to the three new files (all five topic files now cross-linked). During
+verification the category indices were restored to the repo's richer convention — listing every event
+in the category (linked where a dedicated file exists) rather than only the deep-dived files — so the
+People and Society & Economics indices retained their entries.
+
+**Record** — `ROADMAP.md` reconciled (3 deep-dives + the structure refresh → Done; Now refilled with
+Google/YouTube, *Casino Royale*, and *Time* "You" deep-dives); `seed.md` §4–5 inventories synced
+(5 topic files, 5 linked rows). `lifecycle.yml` generation tick counter reconciled to 2.
 
 ---
