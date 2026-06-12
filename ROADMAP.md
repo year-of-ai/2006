@@ -7,22 +7,22 @@
 
 | Item | Tag | Notes |
 |---|---|---|
-| Generate TIMELINE.md from README knowledge table | structure | First structural artifact; sort the 12 events by date. |
-| Generate category index pages (all 5 slugs) | structure | One `index.md` per taxonomy category. |
-| Generate master INDEX.md | structure | Group all content by taxonomy category. |
+| Deep-dive: Twitter launched (Jul 15, 2006) | content | high | Microblogging launch; Web 2.0 anchor. |
+| Deep-dive: Saddam Hussein execution (Dec 30, 2006) | content | high | Closes the Iraq War arc carried from 2005. |
+| Deep-dive: 2006 FIFA World Cup / Italy's victory (Jul 9, 2006) | content | medium | First Arts & Culture deep-dive. |
 
 ## Backlog
 
 | Item | Tag | Priority |
 |---|---|---|
-| Deep-dive: North Korea's first nuclear test (Oct 9, 2006) | content | high |
-| Deep-dive: Pluto reclassified as a dwarf planet (Aug 24, 2006) | content | high |
-| Deep-dive: Twitter launched (Jul 15, 2006) | content | high |
-| Deep-dive: Saddam Hussein execution (Dec 30, 2006) | content | medium |
-| Deep-dive: Google acquires YouTube (Oct 9, 2006) | content | medium |
-| Deep-dive: 2006 FIFA World Cup / Italy's victory (Jul 9, 2006) | content | medium |
+| Deep-dive: Google acquires YouTube (Oct 9, 2006) | content | high |
 | Deep-dive: Montenegro independence (Jun 3, 2006) | content | medium |
-| Add cross-reference ## Related blocks to topic files | structure | low |
+| Deep-dive: *Casino Royale* / Daniel Craig reboot (Nov 2006) | content | medium |
+| Deep-dive: *Time* "You" Person of the Year (Dec 2006) | content | medium |
+| Deep-dive: Steve Irwin death (Sep 4, 2006) | content | medium |
+| Deep-dive: Gerald Ford death (Dec 26, 2006) | content | low |
+| Deep-dive: U.S. Democrats win 2006 midterms (Nov 7, 2006) | content | low |
+| Add new knowledge-table rows from Ideas (spaceflight, PS3/Wii, Facebook, Lebanon War) | content | medium |
 | Periodic /evolve audit of .github/ layer | meta | low |
 
 ## Done
@@ -30,6 +30,12 @@
 | Item | Tag | Completed |
 |---|---|---|
 | Genesis: seed.md, README.md, ROADMAP.md, .github/ layer | meta | 2026-06-12 |
+| Deep-dive: North Korea's first nuclear test (Oct 9, 2006) | content | 2026-06-12 |
+| Deep-dive: Pluto reclassified as a dwarf planet (Aug 24, 2006) | content | 2026-06-12 |
+| Generate TIMELINE.md from README knowledge table | structure | 2026-06-12 |
+| Generate category index pages (all 5 slugs) | structure | 2026-06-12 |
+| Generate master INDEX.md | structure | 2026-06-12 |
+| Add cross-reference ## Related blocks to topic files | structure | 2026-06-12 |
 
 ## Ideas
 

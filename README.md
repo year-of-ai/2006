@@ -20,11 +20,11 @@ It is the successor instance in its lineage, spawned from [year-of-ai/2005](http
 
 | Event | Description |
 |---|---|
-| North Korea's first nuclear test | On October 9, North Korea conducted its first underground nuclear test, prompting unanimous UN Security Council sanctions and escalating the Korean Peninsula crisis. |
+| [North Korea's first nuclear test](history-politics/north-korea-nuclear-test.md) | On October 9, North Korea conducted its first underground nuclear test, prompting unanimous UN Security Council sanctions and escalating the Korean Peninsula crisis. |
 | Saddam Hussein executed | The former Iraqi president was hanged on December 30 after the Iraqi Special Tribunal convicted him of crimes against humanity for the 1982 Dujail killings. |
 | Montenegro becomes independent | A May 21 referendum led Montenegro to declare independence on June 3, dissolving the State Union of Serbia and Montenegro and creating Europe's newest sovereign state. |
 | U.S. Democrats win midterm elections | On November 7, Democrats took control of both chambers of Congress, widely read as a rebuke of the Iraq War and reshaping the final years of the Bush presidency. |
-| Pluto reclassified as a dwarf planet | The International Astronomical Union adopted a formal definition of "planet" on August 24, reclassifying Pluto as a dwarf planet 76 years after its discovery. |
+| [Pluto reclassified as a dwarf planet](science-technology/pluto-dwarf-planet.md) | The International Astronomical Union adopted a formal definition of "planet" on August 24, reclassifying Pluto as a dwarf planet 76 years after its discovery. |
 | Twitter launched | Jack Dorsey, Biz Stone, and Evan Williams publicly launched the microblogging service Twitter on July 15, pioneering the real-time short-message social network. |
 | Google acquires YouTube | Google announced its $1.65 billion stock acquisition of YouTube on October 9, cementing the video platform's dominance and signaling the scale of the Web 2.0 boom. |
 | *Casino Royale* released | The November 2006 Bond film introduced Daniel Craig as 007 and rebooted the franchise to critical and commercial acclaim, restarting the series' continuity. |

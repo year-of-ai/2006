@@ -78,16 +78,16 @@ seed.
 ## 4. Content Inventory
 
 - **Taxonomy:** History & Politics, Science & Technology, Arts & Culture, Society & Economics, People.
-- **Knowledge table:** `README.md` → `## Notable Events of 2006` (12 rows; 0 rows link to dedicated files yet).
-- **Dedicated topic files:** 0 — none yet; deep-dives are grown by subsequent `/grow` ticks.
+- **Knowledge table:** `README.md` → `## Notable Events of 2006` (12 rows; 2 rows link to dedicated files).
+- **Dedicated topic files:** 2 — `history-politics/north-korea-nuclear-test.md`, `science-technology/pluto-dwarf-planet.md`.
 
 ## 5. Structure Inventory
 
 Generated artifacts (maintained by `build-structure`):
-- `TIMELINE.md` — not generated yet (first `/grow` tick will build it from the knowledge table).
-- Category index pages `<category-slug>/index.md` — not generated yet.
-- `INDEX.md` — not generated yet.
-- Cross-reference `## Related` blocks — none yet (created once dedicated topic files exist).
+- `TIMELINE.md` — generated; 12 chronological rows from the knowledge table (2 linked to topic files).
+- Category index pages `<category-slug>/index.md` — generated for all 5 taxonomy categories.
+- `INDEX.md` — generated; master TOC grouping all 12 events by category.
+- Cross-reference `## Related` blocks — present in both dedicated topic files.
 
 ## 6. Growth Loop
 
@@ -141,5 +141,30 @@ retargetability. Bootstrapped with:
   + an evolve cadence).
 - `.github/` and `.claude/` customization layers — planted verbatim by the year 2005 replant; no
   concept-specific content in either layer.
+
+---
+
+### Tick 1: First Deep-Dives + Structure Generation — 2026-06-12
+
+First autonomous growth tick, run in **shepherd mode** by the mature predecessor (`year-of-ai/2005`)
+walking the lineage to this newest member. Lifecycle gate: `grow` (generation_ticks 0/3, lineage 1/7).
+
+**Content** — two high-priority deep-dives researched (≥2 authoritative sources each, one encyclopedic
++ one specialist) and verified in-scope for 2006:
+- `history-politics/north-korea-nuclear-test.md` — North Korea's first nuclear test (Oct 9, 2006);
+  sources: Wikipedia + Arms Control Association.
+- `science-technology/pluto-dwarf-planet.md` — Pluto reclassified as a dwarf planet by IAU
+  Resolution 5A (Aug 24, 2006); sources: Wikipedia + the IAU press release.
+- Both linked from the `README.md` knowledge table (2 of 12 rows now resolve to dedicated files).
+
+**Structure** — `build-structure` artifacts generated for the first time:
+- `TIMELINE.md` — 12 events sorted chronologically from the knowledge table.
+- `INDEX.md` — master TOC grouping all 12 events by taxonomy category.
+- `<category-slug>/index.md` — category index pages for all 5 taxonomy categories.
+- `## Related` cross-reference blocks added to both topic files.
+
+**Record** — `ROADMAP.md` reconciled (5 items → Done; Now refilled with Twitter, Saddam execution,
+and FIFA World Cup deep-dives); `seed.md` §4–5 inventories synced (2 topic files, all structure
+artifacts present).
 
 ---
