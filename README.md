@@ -1,5 +1,10 @@
 # The Year 2006
 
+> **Consolidated into [year-of-ai/2005-2011](https://github.com/year-of-ai/2005-2011).**
+> This repository is archived and read-only. All content has been preserved under the
+> `2006/` directory in the consolidated range repository.
+
+
 > **Status: Mature** — This generation is complete (3 growth ticks, 12 knowledge-table rows, 8 dedicated topic files). The successor knowledge base covering **the year 2007** has been spawned at [year-of-ai/2007](https://github.com/year-of-ai/2007).
 
 A self-growing knowledge base about **the year 2006** — history, science, technology, arts, society, and people.
