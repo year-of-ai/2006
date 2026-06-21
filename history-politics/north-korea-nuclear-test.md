@@ -32,6 +32,7 @@ The event reshaped East Asian security dynamics, intensifying concerns in South 
 ## Related
 
 - [Execution of Saddam Hussein](saddam-hussein-execution.md) — the year's other defining History & Politics event, occurring weeks later as Iraq closed its own post-2003 chapter.
+- [Montenegro Declares Independence](montenegro-independence.md) — the peaceful 2006 dissolution of the last remnant of Yugoslavia.
 - [Pluto Reclassified as a Dwarf Planet](../science-technology/pluto-dwarf-planet.md) — a 2006 scientific landmark, marking the year in science as this event marked it in security.
 - See the full [Timeline of 2006](../TIMELINE.md) and master [Index](../INDEX.md) for concurrent events.
 <!-- END GENERATED: crossrefs -->

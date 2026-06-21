@@ -8,7 +8,7 @@ A complete map of all content, organized by category. See also [TIMELINE.md](TIM
 | Topic | Description |
 |-------|-------------|
 | [North Korea's first nuclear test](history-politics/north-korea-nuclear-test.md) | First DPRK underground nuclear test, October 9; prompted UN sanctions. |
-| Montenegro becomes independent | Referendum led to independence June 3; Europe's newest sovereign state. |
+| [Montenegro becomes independent](history-politics/montenegro-independence.md) | Referendum led to independence June 3; Europe's newest sovereign state. |
 | U.S. Democrats win midterm elections | Democrats took both chambers of Congress, November 7. |
 | [Saddam Hussein executed](history-politics/saddam-hussein-execution.md) | Former Iraqi president hanged December 30 for crimes against humanity. |
 
@@ -37,7 +37,7 @@ A complete map of all content, organized by category. See also [TIMELINE.md](TIM
 
 | Topic | Description |
 |-------|-------------|
-| Steve Irwin dies | "Crocodile Hunter" killed by a stingray barb, September 4. |
-| Gerald Ford dies | 38th U.S. president died December 26 aged 93. |
+| [Steve Irwin dies](people/steve-irwin.md) | "Crocodile Hunter" killed by a stingray barb, September 4. |
+| [Gerald Ford dies](people/gerald-ford.md) | 38th U.S. president died December 26 aged 93. |
 
 <!-- END GENERATED: master-index -->

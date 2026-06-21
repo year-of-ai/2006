@@ -5,7 +5,7 @@ Category index for the **People** topics within the [2006 Knowledge Base](../REA
 
 | Topic | Description |
 |-------|-------------|
-| Steve Irwin dies | "Crocodile Hunter" conservationist killed by a stingray barb, September 4. |
-| Gerald Ford dies | 38th U.S. president died December 26 aged 93. |
+| [Steve Irwin dies](steve-irwin.md) | "Crocodile Hunter" conservationist killed by a stingray barb, September 4. |
+| [Gerald Ford dies](gerald-ford.md) | 38th U.S. president died December 26 aged 93. |
 
 <!-- END GENERATED: category-index -->

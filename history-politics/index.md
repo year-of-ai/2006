@@ -7,7 +7,7 @@ Category index for the **History & Politics** topics within the [2006 Knowledge 
 |-------|-------------|
 | [North Korea's first nuclear test](north-korea-nuclear-test.md) | First DPRK underground nuclear test, October 9; prompted unanimous UN sanctions. |
 | [Saddam Hussein executed](saddam-hussein-execution.md) | Former Iraqi president hanged December 30 for crimes against humanity over the Dujail killings. |
-| Montenegro becomes independent | Referendum led to independence June 3; Europe's newest sovereign state. |
+| [Montenegro becomes independent](montenegro-independence.md) | Referendum led to independence June 3; Europe's newest sovereign state. |
 | U.S. Democrats win midterm elections | Democrats took both chambers of Congress, November 7. |
 
 <!-- END GENERATED: category-index -->

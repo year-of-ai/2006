@@ -32,5 +32,6 @@ The trial and execution generated wide international debate over the fairness of
 ## Related
 
 - [North Korea's First Nuclear Test](north-korea-nuclear-test.md) — the year's other defining History & Politics event, a fellow flashpoint in 2006 international security.
+- [Montenegro Declares Independence](montenegro-independence.md) — another watershed 2006 political event reshaping a region's trajectory.
 - See the full [Timeline of 2006](../TIMELINE.md) and master [Index](../INDEX.md) for concurrent events.
 <!-- END GENERATED: crossrefs -->
