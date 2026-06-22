@@ -31,7 +31,20 @@ The State Union was from the outset a compromise widely expected to be temporary
 
 The EU, through High Representative Javier Solana, brokered an agreement in November 2005 that set a 55% supermajority threshold for the referendum result to be internationally recognised—higher than the simple majority initially proposed by Montenegro. A turnout threshold of 50% was also required. The agreed question on the ballot was: *"Do you want the Republic of Montenegro to be an independent state with full international and legal subjectivity?"*
 
-The referendum was held on **May 21, 2006**, with a turnout of 86.5%—well above the required 50%. Of valid votes cast, **55.5%** favoured independence and 44.5% opposed it (230,711 votes to 184,954 of 415,665 valid ballots), exceeding the 55% EU threshold by roughly 2,000 votes. The Organisation for Security and Co-operation in Europe (OSCE) and EU observers declared the vote free and fair. The state Referendum Commission confirmed the official result on **May 31, 2006**.
+The 55% threshold was itself contested: Montenegrin independence advocates argued that a simple majority was the appropriate democratic standard, while the EU and the pro-union camp argued the higher bar was necessary to ensure a clear mandate that would not leave a large disaffected minority. In the months before the vote, polls showed support hovering around 50–53%, making the outcome genuinely uncertain.
+
+The referendum was held on **May 21, 2006**, with a turnout of 86.5%—well above the required 50%. Of valid votes cast, **55.5%** favoured independence and 44.5% opposed it, exceeding the 55% EU threshold by roughly 2,000 votes. The Organisation for Security and Co-operation in Europe (OSCE) and EU observers declared the vote free and fair. The state Referendum Commission confirmed the official result on **May 31, 2006**.
+
+### Referendum Results
+
+| Outcome | Votes | Percentage |
+|---|---|---|
+| Yes (independence) | 230,711 | 55.5% |
+| No (remain in union) | 184,954 | 44.5% |
+| **Valid votes** | **415,665** | — |
+| EU threshold required | — | 55.0% |
+| Margin above threshold | ~2,100 votes | +0.5 pp |
+| Voter turnout | ~419,000 of 484,718 registered | 86.5% |
 
 ### Key Figures in the Campaign
 
@@ -44,6 +57,32 @@ The referendum was held on **May 21, 2006**, with a turnout of 86.5%—well abov
 On **June 3, 2006**, the Assembly of the Republic of Montenegro adopted a formal Declaration of Independence. Serbia's parliament formally acknowledged the dissolution on **June 5**, and the two republics separated without incident. Serbia simultaneously declared itself the legal successor state of Serbia and Montenegro, inheriting the union's UN seat and international obligations.
 
 Recognition came swiftly. The European Union recognised Montenegro on **June 12, 2006**, and the country was admitted to the **United Nations on June 28, 2006**, as its 192nd member. Montenegro subsequently applied for EU membership in 2008 and was granted candidate status in December 2010; accession negotiations opened in June 2012. The country joined **NATO on June 5, 2017**, becoming the alliance's 29th member.
+
+## Post-Independence Developments
+
+### Succession and the UN
+
+Serbia declared itself the **legal successor state** of the State Union of Serbia and Montenegro, inheriting the union's UN seat (seat S-190), bilateral treaties, and international obligations without applying for new membership. Montenegro was required to apply for UN membership as a new state; it was admitted on **June 28, 2006** as the UN's **192nd member**. This succession arrangement—Serbia inheriting rather than reapplying—paralleled the 1992 precedent when Russia inherited the Soviet Union's permanent Security Council seat and UN membership.
+
+### Euro-Atlantic Integration
+
+Montenegro moved rapidly toward Euro-Atlantic integration following independence:
+
+| Milestone | Date |
+|---|---|
+| EU recognition | June 12, 2006 |
+| UN membership | June 28, 2006 |
+| EU membership application | December 15, 2008 |
+| EU candidate status | December 17, 2010 |
+| NATO invitation | December 2, 2015 |
+| NATO accession (29th member) | June 5, 2017 |
+| EU accession negotiations opened | June 29, 2012 (ongoing) |
+
+Montenegro's accession to **NATO on June 5, 2017** (the same date as Serbia's formal acknowledgment of independence, eleven years earlier) made it the first former Yugoslav republic to join the alliance since Slovenia and Croatia joined in 2004. As of 2006, it also remained the smallest country in continental Europe by population to become a NATO member.
+
+### The Kosovo Precedent
+
+Montenegro's independence had particular salience for Kosovo, which was then under UN administration (UNMIK, established by UNSC Resolution 1244 in 1999). Kosovo's ethnic Albanian leadership cited the Montenegro referendum as demonstrating that peaceful, negotiated independence was a viable path for non-state entities in the Balkans. Kosovo declared independence on **February 17, 2008**, though—unlike Montenegro—it did so without a referendum and without Serbian consent, resulting in far more contested international recognition (recognized by over 100 UN member states, but not by Serbia, Russia, China, or five EU members).
 
 ## Significance
 
@@ -61,7 +100,8 @@ The dissolution also freed Serbia to begin its own EU accession process without 
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 ## Related
 
-- [North Korea's First Nuclear Test](north-korea-nuclear-test.md) — another defining History & Politics flashpoint of 2006.
-- [Execution of Saddam Hussein](saddam-hussein-execution.md) — the year's other watershed political event reshaping a region's trajectory.
-- See the full [Timeline of 2006](../TIMELINE.md) and master [Index](../INDEX.md) for concurrent events.
+- [North Korea's First Nuclear Test](north-korea-nuclear-test.md) — another defining 2006 History & Politics event.
+- [Execution of Saddam Hussein](saddam-hussein-execution.md) — political upheaval elsewhere, 2006.
+- [2006 U.S. Midterm Elections](2006-us-midterm-elections.md) — democratic processes reshaping political power globally, 2006.
+- See the full [Timeline of 2006](../TIMELINE.md) and master [Index](../INDEX.md) for all concurrent events.
 <!-- END GENERATED: crossrefs -->
