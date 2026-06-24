@@ -104,5 +104,6 @@ The results were linked directly to the Iraq War's trajectory: weeks before the 
 - [North Korea's First Nuclear Test](north-korea-nuclear-test.md) — security crisis in October; Democrats campaigned against war.
 - [Execution of Saddam Hussein](saddam-hussein-execution.md) — Iraq War's final pivot, weeks after the midterms shifted Congressional dynamics.
 - [Montenegro Declares Independence](montenegro-independence.md) — political transformation in Europe, 2006.
+- [Crude Oil Prices Reach Record Highs](../society-economics/2006-crude-oil-prices.md) — record summer gasoline prices were a leading voter concern that contributed to the Republican loss of Congress.
 - See the full [Timeline of 2006](../TIMELINE.md) and master [Index](../INDEX.md) for all concurrent events.
 <!-- END GENERATED: crossrefs -->

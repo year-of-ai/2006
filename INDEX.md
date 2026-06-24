@@ -24,6 +24,7 @@ A complete map of all content, organized by category. See also [TIMELINE.md](TIM
 
 | Topic | Description |
 |-------|-------------|
+| [*An Inconvenient Truth* released](arts-culture/an-inconvenient-truth.md) | Al Gore climate documentary premiered May 24; highest-grossing documentary at the time. |
 | [*Casino Royale* released](arts-culture/casino-royale-daniel-craig.md) | Daniel Craig debuts as 007; franchise rebooted, November 2006. |
 | [Italy wins the FIFA World Cup](arts-culture/fifa-world-cup-2006.md) | Italy beat France on penalties July 9 for a fourth title. |
 
@@ -31,6 +32,7 @@ A complete map of all content, organized by category. See also [TIMELINE.md](TIM
 
 | Topic | Description |
 |-------|-------------|
+| [Crude oil prices surge to record highs](society-economics/2006-crude-oil-prices.md) | WTI crude closed at a record ~$77/barrel July 14 amid surging demand and Middle East risk. |
 | [*Time* names "You" Person of the Year](society-economics/time-you-person-of-the-year.md) | Recognized user-generated content and the rise of Web 2.0, December. |
 
 ## People ([index](people/index.md))
