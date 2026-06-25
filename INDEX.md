@@ -19,6 +19,8 @@ A complete map of all content, organized by category. See also [TIMELINE.md](TIM
 | [Pluto reclassified as a dwarf planet](science-technology/pluto-dwarf-planet.md) | IAU redefined "planet" August 24; Solar System reduced to eight. |
 | [Twitter launched](science-technology/twitter-launch.md) | Microblogging service publicly launched July 15. |
 | [Google acquires YouTube](science-technology/google-acquires-youtube.md) | $1.65 billion stock acquisition announced October 9. |
+| [Windows Vista completed](science-technology/windows-vista-release.md) | RTM reached November 8; Aero interface, User Account Control, DirectX 10. |
+| [PlayStation 3 and Nintendo Wii launch](science-technology/gaming-consoles-2006.md) | Seventh-generation consoles launched in November; Wii motion controls broadened gaming. |
 
 ## Arts & Culture ([index](arts-culture/index.md))
 

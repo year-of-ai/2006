@@ -15,10 +15,12 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-10-09 | North Korea's first nuclear test | History & Politics | [file](history-politics/north-korea-nuclear-test.md) |
 | 2006-10-09 | Google acquires YouTube | Science & Technology | [file](science-technology/google-acquires-youtube.md) |
 | 2006-11-07 | U.S. Democrats win midterm elections | History & Politics | [file](history-politics/2006-us-midterm-elections.md) |
+| 2006-11-08 | Windows Vista completed | Science & Technology | [file](science-technology/windows-vista-release.md) |
+| 2006-11-11 | PlayStation 3 and Nintendo Wii launch | Science & Technology | [file](science-technology/gaming-consoles-2006.md) |
 | 2006-11-17 | *Casino Royale* released | Arts & Culture | [file](arts-culture/casino-royale-daniel-craig.md) |
 | 2006-12-16 | *Time* names "You" Person of the Year | Society & Economics | [file](society-economics/time-you-person-of-the-year.md) |
 | 2006-12-26 | Gerald Ford dies | People | [file](people/gerald-ford.md) |
 | 2006-12-30 | Saddam Hussein executed | History & Politics | [file](history-politics/saddam-hussein-execution.md) |
 
-> Generated from 14 knowledge-table rows; all 14 resolve to dedicated topic files.
+> Generated from 16 knowledge-table rows; all 16 resolve to dedicated topic files.
 <!-- END GENERATED: timeline -->

@@ -29,5 +29,6 @@ The acquisition, at $1.65 billion, was the largest technology acquisition to tha
 
 - [Twitter Launched](twitter-launch.md) — the other defining Web 2.0 platform debut of 2006, launched three months before the YouTube acquisition.
 - [*Time* Names "You" Person of the Year](../society-economics/time-you-person-of-the-year.md) — YouTube's explosive growth was a central reason for *Time*'s recognition of user-generated content in December 2006.
+- [PlayStation 3 and Nintendo Wii Launches](gaming-consoles-2006.md) — the November consoles built networked storefronts around the same online-video and user-generated-content surge.
 - See the full [Timeline of 2006](../TIMELINE.md) and master [Index](../INDEX.md) for concurrent events.
 <!-- END GENERATED: crossrefs -->
