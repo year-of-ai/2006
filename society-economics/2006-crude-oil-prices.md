@@ -109,5 +109,5 @@ The cultural response to this energy environment was visible in the same year: t
 - [An Inconvenient Truth](../arts-culture/an-inconvenient-truth.md) — the documentary released in May 2006 linked fossil fuel dependence to climate change, amplifying public attention to the same energy crisis driving oil prices
 - [2006 U.S. Midterm Elections](../history-politics/2006-us-midterm-elections.md) — high gasoline prices were a major voter concern contributing to the Republican loss of Congress
 - [Saddam Hussein Execution](../history-politics/saddam-hussein-execution.md) — the Iraq War, which ended with Hussein's execution, was a persistent driver of Middle East geopolitical risk embedded in oil prices throughout 2006
-- [North Korea Nuclear Test](../history-politics/north-korea-nuclear-test.md) — added to the broader geopolitical risk environment that kept oil prices elevated through 2006
+- [2006 Lebanon War](../history-politics/2006-lebanon-war.md) — the Israel–Hezbollah war that broke out on July 12 added an acute risk premium during the week oil reached its record high
 <!-- END GENERATED: crossrefs -->
