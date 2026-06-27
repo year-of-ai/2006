@@ -28,6 +28,7 @@ A complete map of all content, organized by category. See also [TIMELINE.md](TIM
 | Topic | Description |
 |-------|-------------|
 | [*An Inconvenient Truth* released](arts-culture/an-inconvenient-truth.md) | Al Gore climate documentary premiered May 24; highest-grossing documentary at the time. |
+| [*Borat* released](arts-culture/borat-2006-film.md) | Sacha Baron Cohen's ambush mockumentary opened November 3; a $260M global phenomenon and satire-ethics flashpoint. |
 | [*Casino Royale* released](arts-culture/casino-royale-daniel-craig.md) | Daniel Craig debuts as 007; franchise rebooted, November 2006. |
 | [Italy wins the FIFA World Cup](arts-culture/fifa-world-cup-2006.md) | Italy beat France on penalties July 9 for a fourth title. |
 
@@ -35,7 +36,9 @@ A complete map of all content, organized by category. See also [TIMELINE.md](TIM
 
 | Topic | Description |
 |-------|-------------|
+| [2006 Housing Market Peak & Subprime Warning Signs](society-economics/2006-housing-market-peak.md) | U.S. home prices peaked in 2006 atop subprime and exotic lending; early warnings presaged the 2007–2008 crisis. |
 | [Crude oil prices surge to record highs](society-economics/2006-crude-oil-prices.md) | WTI crude closed at a record ~$77/barrel July 14 amid surging demand and Middle East risk. |
+| [2006 Energy Crisis & Climate Awakening](society-economics/2006-energy-climate-crisis.md) | Record oil prices and *An Inconvenient Truth* fused energy supply and climate into mainstream politics. |
 | [*Time* names "You" Person of the Year](society-economics/time-you-person-of-the-year.md) | Recognized user-generated content and the rise of Web 2.0, December. |
 
 ## People ([index](people/index.md))
