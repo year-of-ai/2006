@@ -15,6 +15,7 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-07-15 | Twitter launched | Science & Technology | [file](science-technology/twitter-launch.md) |
 | 2006-08-24 | Pluto reclassified as a dwarf planet | Science & Technology | [file](science-technology/pluto-dwarf-planet.md) |
 | 2006-09-04 | Steve Irwin dies | People | [file](people/steve-irwin.md) |
+| 2006-09-05 | Facebook launches News Feed and opens registration | Science & Technology | [file](science-technology/facebook-news-feed-2006.md) |
 | 2006-10-09 | North Korea's first nuclear test | History & Politics | [file](history-politics/north-korea-nuclear-test.md) |
 | 2006-10-09 | Google acquires YouTube | Science & Technology | [file](science-technology/google-acquires-youtube.md) |
 | 2006-11-03 | Borat released | Arts & Culture | [file](arts-culture/borat-2006-film.md) |
@@ -26,5 +27,5 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-12-26 | Gerald Ford dies | People | [file](people/gerald-ford.md) |
 | 2006-12-30 | Saddam Hussein executed | History & Politics | [file](history-politics/saddam-hussein-execution.md) |
 
-> Generated from 20 knowledge-table rows; all 20 resolve to dedicated topic files. Two year-spanning analytical topics — the housing-market peak and the energy/climate convergence — are anchored to a representative dated milestone (the April 2006 home-price peak and the July 14 record oil price, respectively).
+> Generated from 21 knowledge-table rows; all 21 resolve to dedicated topic files. Two year-spanning analytical topics — the housing-market peak and the energy/climate convergence — are anchored to a representative dated milestone (the April 2006 home-price peak and the July 14 record oil price, respectively).
 <!-- END GENERATED: timeline -->
