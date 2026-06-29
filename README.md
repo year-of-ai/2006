@@ -27,6 +27,7 @@ It is the successor instance in its lineage, spawned from [year-of-ai/2005](http
 
 | Event | Description |
 |---|---|
+| [Hamas wins the Palestinian legislative election](history-politics/2006-palestinian-legislative-election.md) | Hamas took 74 of 132 seats on January 25, ending Fatah's dominance, triggering an international aid freeze, and setting up the 2007 Fatah–Hamas split. |
 | [*An Inconvenient Truth* released](arts-culture/an-inconvenient-truth.md) | Directed by Davis Guggenheim and featuring Al Gore, the documentary premiered May 24 and became the highest-grossing documentary film at the time, bringing climate change into mainstream cultural consciousness. |
 | [2006 Energy Crisis & Climate Awakening](society-economics/2006-energy-climate-crisis.md) | Climate activism surged with *An Inconvenient Truth* while crude oil prices hit a record ~$77/barrel in July, exposing the intertwined energy-climate crisis that would define the 21st century. |
 | [Montenegro becomes independent](history-politics/montenegro-independence.md) | A May 21 referendum led Montenegro to declare independence on June 3, dissolving the State Union of Serbia and Montenegro and creating Europe's newest sovereign state. |

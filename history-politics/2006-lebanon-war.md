@@ -67,9 +67,9 @@ The war was also one of the geopolitical risk events that rattled global markets
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 ## Related
 
+- [Hamas Wins the 2006 Palestinian Legislative Election](2006-palestinian-legislative-election.md) — the January Hamas victory reshaped the Palestinian–Israeli landscape that framed the summer's conflict
 - [Crude Oil Prices Reach Record Highs](../society-economics/2006-crude-oil-prices.md) — the war's July 12 outbreak coincided with crude oil's surge to then-record highs as traders priced in Middle East supply risk
 - [Saddam Hussein Execution](saddam-hussein-execution.md) — the concurrent Iraq War formed the wider backdrop of Middle East instability against which the conflict unfolded
 - [North Korea Nuclear Test](north-korea-nuclear-test.md) — part of the cluster of 2006 security crises that drew unanimous UN Security Council responses
-- [2006 U.S. Midterm Elections](2006-us-midterm-elections.md) — Middle East conflict and the Iraq War shaped the U.S. foreign-policy debate ahead of the November vote
 <!-- END GENERATED: crossrefs -->
 

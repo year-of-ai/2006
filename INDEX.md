@@ -8,6 +8,7 @@ A complete map of all content, organized by category. See also [TIMELINE.md](TIM
 | Topic | Description |
 |-------|-------------|
 | [2006 Lebanon War begins](history-politics/2006-lebanon-war.md) | Hezbollah's July 12 cross-border raid sparked a 34-day Israel–Hezbollah war; ceasefire under UN Resolution 1701. |
+| [Hamas wins the Palestinian legislative election](history-politics/2006-palestinian-legislative-election.md) | Hamas took 74 of 132 seats January 25, ending Fatah's dominance and triggering the 2007 Fatah–Hamas split. |
 | [Montenegro becomes independent](history-politics/montenegro-independence.md) | Referendum led to independence June 3; Europe's newest sovereign state. |
 | [North Korea's first nuclear test](history-politics/north-korea-nuclear-test.md) | First DPRK underground nuclear test, October 9; prompted UN sanctions. |
 | [Saddam Hussein executed](history-politics/saddam-hussein-execution.md) | Former Iraqi president hanged December 30 for crimes against humanity. |
