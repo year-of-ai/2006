@@ -5,9 +5,12 @@ A chronological record of notable events of the year 2006, sourced from the know
 
 | Date | Item | Category | Link |
 |------|------|----------|------|
+| 2006-01-19 | New Horizons launches to Pluto | Science & Technology | [file](science-technology/new-horizons-launch-2006.md) |
 | 2006-01-25 | Hamas wins the Palestinian legislative election | History & Politics | [file](history-politics/2006-palestinian-legislative-election.md) |
+| 2006-04-11 | Iran nuclear crisis and UN sanctions | History & Politics | [file](history-politics/iran-nuclear-crisis-2006.md) |
 | 2006-04-30 | 2006 Housing Market Peak & Subprime Warning Signs | Society & Economics | [file](society-economics/2006-housing-market-peak.md) |
 | 2006-05-24 | *An Inconvenient Truth* released | Arts & Culture | [file](arts-culture/an-inconvenient-truth.md) |
+| 2006-06-01 | H5N1 avian influenza spreads globally | Science & Technology | [file](science-technology/h5n1-avian-influenza-2006.md) |
 | 2006-06-03 | Montenegro becomes independent | History & Politics | [file](history-politics/montenegro-independence.md) |
 | 2006-07-09 | Italy wins the FIFA World Cup | Arts & Culture | [file](arts-culture/fifa-world-cup-2006.md) |
 | 2006-07-12 | 2006 Lebanon War begins | History & Politics | [file](history-politics/2006-lebanon-war.md) |
@@ -28,5 +31,5 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-12-26 | Gerald Ford dies | People | [file](people/gerald-ford.md) |
 | 2006-12-30 | Saddam Hussein executed | History & Politics | [file](history-politics/saddam-hussein-execution.md) |
 
-> Generated from 22 knowledge-table rows; all 22 resolve to dedicated topic files. Two year-spanning analytical topics — the housing-market peak and the energy/climate convergence — are anchored to a representative dated milestone (the April 2006 home-price peak and the July 14 record oil price, respectively).
+> Generated from 25 knowledge-table rows; all 25 resolve to dedicated topic files. Year-spanning analytical topics are anchored to a representative dated milestone: the housing-market peak to the April 2006 home-price peak, the energy/climate convergence to the July 14 record oil price, the H5N1 global spread to its mid-2006 peak, and the Iran nuclear crisis to Iran's April 11 enrichment announcement.
 <!-- END GENERATED: timeline -->

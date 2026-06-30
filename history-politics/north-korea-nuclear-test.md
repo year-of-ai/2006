@@ -85,6 +85,7 @@ The 2006 test also marked the moment the Korean Peninsula question shifted from 
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 ## Related
 
+- [Iran nuclear crisis and UN sanctions](iran-nuclear-crisis-2006.md) — the year's parallel proliferation crisis; Iran's enrichment standoff and North Korea's test together strained the nonproliferation regime in 2006.
 - [Execution of Saddam Hussein](saddam-hussein-execution.md) — Iraq's defining moment, following North Korea's nuclear test.
 - [Montenegro Declares Independence](montenegro-independence.md) — another pivotal 2006 History & Politics event.
 - [2006 U.S. Midterm Elections](2006-us-midterm-elections.md) — held weeks after the nuclear test, the elections shifted American political dynamics.

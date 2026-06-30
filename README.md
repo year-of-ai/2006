@@ -27,9 +27,12 @@ It is the successor instance in its lineage, spawned from [year-of-ai/2005](http
 
 | Event | Description |
 |---|---|
+| [New Horizons launches to Pluto](science-technology/new-horizons-launch-2006.md) | NASA launched the fastest-ever spacecraft on January 19 toward Pluto, beginning humanity's first mission to the dwarf planet and the Kuiper Belt. |
 | [Hamas wins the Palestinian legislative election](history-politics/2006-palestinian-legislative-election.md) | Hamas took 74 of 132 seats on January 25, ending Fatah's dominance, triggering an international aid freeze, and setting up the 2007 Fatah–Hamas split. |
+| [Iran nuclear crisis and UN sanctions](history-politics/iran-nuclear-crisis-2006.md) | Iran announced uranium enrichment on April 11, prompting UN Security Council Resolutions 1696 and 1737 and a decade-long nuclear standoff with the West. |
 | [*An Inconvenient Truth* released](arts-culture/an-inconvenient-truth.md) | Directed by Davis Guggenheim and featuring Al Gore, the documentary premiered May 24 and became the highest-grossing documentary film at the time, bringing climate change into mainstream cultural consciousness. |
 | [2006 Energy Crisis & Climate Awakening](society-economics/2006-energy-climate-crisis.md) | Climate activism surged with *An Inconvenient Truth* while crude oil prices hit a record ~$77/barrel in July, exposing the intertwined energy-climate crisis that would define the 21st century. |
+| [H5N1 avian influenza spreads globally](science-technology/h5n1-avian-influenza-2006.md) | H5N1 bird flu spread from Asia into Europe, Africa, and the Middle East in 2006, its peak human-case year, driving worldwide pandemic-preparedness efforts. |
 | [Montenegro becomes independent](history-politics/montenegro-independence.md) | A May 21 referendum led Montenegro to declare independence on June 3, dissolving the State Union of Serbia and Montenegro and creating Europe's newest sovereign state. |
 | [Italy wins the FIFA World Cup](arts-culture/fifa-world-cup-2006.md) | Italy beat France 5–3 on penalties in the July 9 final in Berlin to claim its fourth World Cup title, a match remembered for Zinedine Zidane's headbutt and red card. |
 | [2006 Lebanon War begins](history-politics/2006-lebanon-war.md) | A Hezbollah cross-border raid on July 12 triggered a 34-day Israel–Hezbollah war that killed more than 1,300 people and ended under UN Security Council Resolution 1701. |

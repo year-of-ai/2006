@@ -31,6 +31,7 @@ The reclassification drew substantial public attention and controversy, with con
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 ## Related
 
+- [New Horizons launches to Pluto](new-horizons-launch-2006.md) — NASA's probe launched January 19, eight months before this reclassification, lending the mission a poignant cultural dimension as it sped toward a newly demoted world.
 - [Launch of Twitter](twitter-launch.md) — the year's other landmark Science & Technology development covered in depth.
 - [North Korea's First Nuclear Test](../history-politics/north-korea-nuclear-test.md) — the year's defining geopolitical security event, concurrent with this scientific milestone.
 - See the full [Timeline of 2006](../TIMELINE.md) and master [Index](../INDEX.md) for concurrent events.

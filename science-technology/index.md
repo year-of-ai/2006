@@ -5,6 +5,8 @@ Category index for the **Science & Technology** topics within the [2006 Knowledg
 
 | Topic | Description |
 |-------|-------------|
+| [New Horizons launches to Pluto](new-horizons-launch-2006.md) | NASA launched the fastest-ever spacecraft January 19 toward Pluto and the Kuiper Belt. |
+| [H5N1 avian influenza spreads globally](h5n1-avian-influenza-2006.md) | Bird flu spread across Eurasia and Africa in its peak human-case year, driving pandemic preparedness. |
 | [Pluto reclassified as a dwarf planet](pluto-dwarf-planet.md) | IAU redefined "planet" August 24; Solar System reduced to eight planets. |
 | [Twitter launched](twitter-launch.md) | Microblogging service publicly launched July 15. |
 | [Facebook launches News Feed and opens registration](facebook-news-feed-2006.md) | News Feed launched September 5; public registration opened September 26, beginning Facebook's pivot to mass adoption. |

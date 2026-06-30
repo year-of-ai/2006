@@ -71,5 +71,6 @@ The war was also one of the geopolitical risk events that rattled global markets
 - [Crude Oil Prices Reach Record Highs](../society-economics/2006-crude-oil-prices.md) — the war's July 12 outbreak coincided with crude oil's surge to then-record highs as traders priced in Middle East supply risk
 - [Saddam Hussein Execution](saddam-hussein-execution.md) — the concurrent Iraq War formed the wider backdrop of Middle East instability against which the conflict unfolded
 - [North Korea Nuclear Test](north-korea-nuclear-test.md) — part of the cluster of 2006 security crises that drew unanimous UN Security Council responses
+- [Iran nuclear crisis and UN sanctions](iran-nuclear-crisis-2006.md) — Iran's backing of Hezbollah linked the war to the parallel nuclear standoff and complicated Western diplomacy on both fronts
 <!-- END GENERATED: crossrefs -->
 
