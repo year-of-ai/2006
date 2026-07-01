@@ -36,6 +36,8 @@ A complete map of all content, organized by category. See also [TIMELINE.md](TIM
 | [*Borat* released](arts-culture/borat-2006-film.md) | Sacha Baron Cohen's ambush mockumentary opened November 3; a $260M global phenomenon and satire-ethics flashpoint. |
 | [*Casino Royale* released](arts-culture/casino-royale-daniel-craig.md) | Daniel Craig debuts as 007; franchise rebooted, November 2006. |
 | [Italy wins the FIFA World Cup](arts-culture/fifa-world-cup-2006.md) | Italy beat France on penalties July 9 for a fourth title. |
+| [Shakira's "Hips Don't Lie" tops the charts](arts-culture/shakira-2006-music-breakthrough.md) | Shakira and Wyclef Jean hit No. 1 on the Hot 100 June 17, her U.S. mainstream breakthrough. |
+| [The Devil Wears Prada released](arts-culture/the-devil-wears-prada-2006.md) | Streep–Hathaway fashion comedy opened June 30; $327M worldwide and Streep's record 14th Oscar nod. |
 
 ## Society & Economics ([index](society-economics/index.md))
 
@@ -51,6 +53,7 @@ A complete map of all content, organized by category. See also [TIMELINE.md](TIM
 | Topic | Description |
 |-------|-------------|
 | [Steve Irwin dies](people/steve-irwin.md) | "Crocodile Hunter" killed by a stingray barb, September 4. |
+| [James Brown dies](people/james-brown.md) | "Godfather of Soul" and funk pioneer died December 25, aged 73; the most-sampled artist in music. |
 | [Gerald Ford dies](people/gerald-ford.md) | 38th U.S. president died December 26 aged 93. |
 
 <!-- END GENERATED: master-index -->

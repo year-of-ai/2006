@@ -83,6 +83,7 @@ Ford's presidency is remembered chiefly for restoring stability and public confi
 ## Related
 
 - [Steve Irwin's Death](steve-irwin.md) — another globally mourned death of 2006.
+- [James Brown](james-brown.md) — the "Godfather of Soul," who died on December 25, 2006, one day before Ford.
 - [Execution of Saddam Hussein](../history-politics/saddam-hussein-execution.md) — a third consequential figure whose death in December 2006 marked the end of an era.
 - See the full [Timeline of 2006](../TIMELINE.md) and master [Index](../INDEX.md) for concurrent events.
 <!-- END GENERATED: crossrefs -->

@@ -32,6 +32,7 @@ Italy's triumph carried particular national resonance, arriving during the *Calc
 ## Related
 
 - [Launch of Twitter](../science-technology/twitter-launch.md) — another defining 2006 cultural touchstone, reshaping how global events like this final were followed in real time.
+- [Shakira's U.S. Breakthrough](shakira-2006-music-breakthrough.md) — Shakira performed "Hips Don't Lie" at this tournament's opening and closing ceremonies.
 - [North Korea's First Nuclear Test](../history-politics/north-korea-nuclear-test.md) — a concurrent landmark event of 2006 covered in depth.
 - See the full [Timeline of 2006](../TIMELINE.md) and master [Index](../INDEX.md) for concurrent events.
 <!-- END GENERATED: crossrefs -->
