@@ -13,6 +13,7 @@ A complete map of all content, organized by category. See also [TIMELINE.md](TIM
 | [Montenegro becomes independent](history-politics/montenegro-independence.md) | Referendum led to independence June 3; Europe's newest sovereign state. |
 | [North Korea's first nuclear test](history-politics/north-korea-nuclear-test.md) | First DPRK underground nuclear test, October 9; prompted UN sanctions. |
 | [Saddam Hussein executed](history-politics/saddam-hussein-execution.md) | Former Iraqi president hanged December 30 for crimes against humanity. |
+| [Thai military coup deposes Thaksin](history-politics/2006-thai-coup.md) | The Royal Thai Army seized power September 19 while PM Thaksin was abroad, abrogating the constitution. |
 | [U.S. Democrats win midterm elections](history-politics/2006-us-midterm-elections.md) | Democrats took both chambers of Congress, November 7. |
 
 ## Science & Technology ([index](science-technology/index.md))
@@ -44,8 +45,10 @@ A complete map of all content, organized by category. See also [TIMELINE.md](TIM
 | Topic | Description |
 |-------|-------------|
 | [2006 Housing Market Peak & Subprime Warning Signs](society-economics/2006-housing-market-peak.md) | U.S. home prices peaked in 2006 atop subprime and exotic lending; early warnings presaged the 2007–2008 crisis. |
+| [Enron executives convicted](society-economics/enron-verdict-2006.md) | Kenneth Lay and Jeffrey Skilling found guilty of fraud and conspiracy May 25, capping the largest U.S. corporate-fraud case. |
 | [Crude oil prices surge to record highs](society-economics/2006-crude-oil-prices.md) | WTI crude closed at a record ~$77/barrel July 14 amid surging demand and Middle East risk. |
 | [2006 Energy Crisis & Climate Awakening](society-economics/2006-energy-climate-crisis.md) | Record oil prices and *An Inconvenient Truth* fused energy supply and climate into mainstream politics. |
+| [Yunus and Grameen Bank win the Nobel Peace Prize](society-economics/grameen-yunus-nobel-2006.md) | Economist Muhammad Yunus and his microcredit bank honored October 13, mainstreaming microfinance as an anti-poverty tool. |
 | [*Time* names "You" Person of the Year](society-economics/time-you-person-of-the-year.md) | Recognized user-generated content and the rise of Web 2.0, December. |
 
 ## People ([index](people/index.md))
