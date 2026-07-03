@@ -13,6 +13,7 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-05-25 | Enron executives convicted | Society & Economics | [file](society-economics/enron-verdict-2006.md) |
 | 2006-06-01 | H5N1 avian influenza spreads globally | Science & Technology | [file](science-technology/h5n1-avian-influenza-2006.md) |
 | 2006-06-03 | Montenegro becomes independent | History & Politics | [file](history-politics/montenegro-independence.md) |
+| 2006-06-04 | Roger Federer's peak season | People | [file](people/roger-federer.md) |
 | 2006-06-17 | Shakira's "Hips Don't Lie" tops the charts | Arts & Culture | [file](arts-culture/shakira-2006-music-breakthrough.md) |
 | 2006-06-30 | The Devil Wears Prada released | Arts & Culture | [file](arts-culture/the-devil-wears-prada-2006.md) |
 | 2006-07-09 | Italy wins the FIFA World Cup | Arts & Culture | [file](arts-culture/fifa-world-cup-2006.md) |
@@ -32,10 +33,11 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-11-08 | Windows Vista completed | Science & Technology | [file](science-technology/windows-vista-release.md) |
 | 2006-11-11 | PlayStation 3 and Nintendo Wii launch | Science & Technology | [file](science-technology/gaming-consoles-2006.md) |
 | 2006-11-17 | *Casino Royale* released | Arts & Culture | [file](arts-culture/casino-royale-daniel-craig.md) |
+| 2006-12-10 | Augusto Pinochet dies | People | [file](people/augusto-pinochet.md) |
 | 2006-12-16 | *Time* names "You" Person of the Year | Society & Economics | [file](society-economics/time-you-person-of-the-year.md) |
 | 2006-12-25 | James Brown dies | People | [file](people/james-brown.md) |
 | 2006-12-26 | Gerald Ford dies | People | [file](people/gerald-ford.md) |
 | 2006-12-30 | Saddam Hussein executed | History & Politics | [file](history-politics/saddam-hussein-execution.md) |
 
-> Generated from 31 knowledge-table rows; all 31 resolve to dedicated topic files. Year-spanning analytical topics are anchored to a representative dated milestone: the housing-market peak to the April 2006 home-price peak, the energy/climate convergence to the July 14 record oil price, the H5N1 global spread to its mid-2006 peak, and the Iran nuclear crisis to Iran's April 11 enrichment announcement.
+> Generated from 33 knowledge-table rows; all 33 resolve to dedicated topic files. Year-spanning analytical topics are anchored to a representative dated milestone: the housing-market peak to the April 2006 home-price peak, the energy/climate convergence to the July 14 record oil price, the H5N1 global spread to its mid-2006 peak, the Iran nuclear crisis to Iran's April 11 enrichment announcement, and Federer's peak season to his first French Open final run in early June.
 <!-- END GENERATED: timeline -->
