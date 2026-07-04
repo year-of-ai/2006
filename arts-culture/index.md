@@ -5,6 +5,7 @@ Category index for the **Arts & Culture** topics within the [2006 Knowledge Base
 
 | Topic | Description |
 |-------|-------------|
+| [Turin hosts the 2006 Winter Olympics](2006-winter-olympics.md) | The XX Olympic Winter Games opened February 10 in Turin; Germany led the medals amid an Austrian-team doping raid. |
 | [*An Inconvenient Truth* released](an-inconvenient-truth.md) | Al Gore climate documentary premiered May 24; highest-grossing documentary at the time. |
 | [Shakira's "Hips Don't Lie" tops the charts](shakira-2006-music-breakthrough.md) | Shakira and Wyclef Jean hit No. 1 on the Hot 100 June 17, her U.S. mainstream breakthrough. |
 | [The Devil Wears Prada released](the-devil-wears-prada-2006.md) | Streep–Hathaway fashion comedy opened June 30; $327M worldwide and Streep's record 14th Oscar nod. |

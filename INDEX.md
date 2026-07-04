@@ -39,6 +39,7 @@ A complete map of all content, organized by category. See also [TIMELINE.md](TIM
 | [Italy wins the FIFA World Cup](arts-culture/fifa-world-cup-2006.md) | Italy beat France on penalties July 9 for a fourth title. |
 | [Shakira's "Hips Don't Lie" tops the charts](arts-culture/shakira-2006-music-breakthrough.md) | Shakira and Wyclef Jean hit No. 1 on the Hot 100 June 17, her U.S. mainstream breakthrough. |
 | [The Devil Wears Prada released](arts-culture/the-devil-wears-prada-2006.md) | Streep–Hathaway fashion comedy opened June 30; $327M worldwide and Streep's record 14th Oscar nod. |
+| [Turin hosts the 2006 Winter Olympics](arts-culture/2006-winter-olympics.md) | XX Olympic Winter Games opened February 10; Germany led the medals amid an Austrian-team doping raid. |
 
 ## Society & Economics ([index](society-economics/index.md))
 
