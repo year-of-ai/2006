@@ -143,5 +143,6 @@ His contested legacy—remembered as both a savior from socialism and a brutal t
 
 - [Saddam Hussein's Execution](../history-politics/saddam-hussein-execution.md) — another consequential 2006 death of a dictator facing accountability.
 - [2006 Thai Coup](../history-politics/2006-thai-coup.md) — a 2006 military coup in Thailand, representing Cold War-era patterns of authoritarian intervention.
+- [Slobodan Milošević's Death](slobodan-milosevic.md) — another authoritarian leader who died in 2006 before a trial for atrocity crimes could reach a verdict.
 - See the full [Timeline of 2006](../TIMELINE.md) and master [Index](../INDEX.md) for concurrent events.
 <!-- END GENERATED: crossrefs -->

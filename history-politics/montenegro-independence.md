@@ -100,6 +100,7 @@ The dissolution also freed Serbia to begin its own EU accession process without 
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 ## Related
 
+- [Slobodan Milošević's Death](../people/slobodan-milosevic.md) — the former Yugoslav leader died in March 2006 as the federation he dominated finished dissolving.
 - [North Korea's First Nuclear Test](north-korea-nuclear-test.md) — another defining 2006 History & Politics event.
 - [Execution of Saddam Hussein](saddam-hussein-execution.md) — political upheaval elsewhere, 2006.
 - [2006 U.S. Midterm Elections](2006-us-midterm-elections.md) — democratic processes reshaping political power globally, 2006.

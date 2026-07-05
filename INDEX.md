@@ -57,6 +57,7 @@ A complete map of all content, organized by category. See also [TIMELINE.md](TIM
 | Topic | Description |
 |-------|-------------|
 | [Roger Federer's peak season](people/roger-federer.md) | Swiss tennis champion's statistical peak — a 92–5 record, 12 titles, and three of four majors in 2006. |
+| [Slobodan Milošević dies on trial](people/slobodan-milosevic.md) | Former Yugoslav president died of a heart attack in his ICTY cell March 11 aged 64, ending his war-crimes trial with no verdict. |
 | [Steve Irwin dies](people/steve-irwin.md) | "Crocodile Hunter" killed by a stingray barb, September 4. |
 | [Augusto Pinochet dies](people/augusto-pinochet.md) | Chilean dictator (1973–1990) died December 10 aged 91, still facing 300+ human-rights charges. |
 | [James Brown dies](people/james-brown.md) | "Godfather of Soul" and funk pioneer died December 25, aged 73; the most-sampled artist in music. |
