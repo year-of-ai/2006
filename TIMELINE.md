@@ -35,11 +35,12 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-11-08 | Windows Vista completed | Science & Technology | [file](science-technology/windows-vista-release.md) |
 | 2006-11-11 | PlayStation 3 and Nintendo Wii launch | Science & Technology | [file](science-technology/gaming-consoles-2006.md) |
 | 2006-11-17 | *Casino Royale* released | Arts & Culture | [file](arts-culture/casino-royale-daniel-craig.md) |
+| 2006-11-23 | Alexander Litvinenko poisoned in London | History & Politics | [file](history-politics/litvinenko-poisoning.md) |
 | 2006-12-10 | Augusto Pinochet dies | People | [file](people/augusto-pinochet.md) |
 | 2006-12-16 | *Time* names "You" Person of the Year | Society & Economics | [file](society-economics/time-you-person-of-the-year.md) |
 | 2006-12-25 | James Brown dies | People | [file](people/james-brown.md) |
 | 2006-12-26 | Gerald Ford dies | People | [file](people/gerald-ford.md) |
 | 2006-12-30 | Saddam Hussein executed | History & Politics | [file](history-politics/saddam-hussein-execution.md) |
 
-> Generated from 35 knowledge-table rows; all 35 resolve to dedicated topic files. Year-spanning analytical topics are anchored to a representative dated milestone: the housing-market peak to the April 2006 home-price peak, the energy/climate convergence to the July 14 record oil price, the H5N1 global spread to its mid-2006 peak, the Iran nuclear crisis to Iran's April 11 enrichment announcement, and Federer's peak season to his first French Open final run in early June.
+> Generated from 36 knowledge-table rows; all 36 resolve to dedicated topic files. Year-spanning analytical topics are anchored to a representative dated milestone: the housing-market peak to the April 2006 home-price peak, the energy/climate convergence to the July 14 record oil price, the H5N1 global spread to its mid-2006 peak, the Iran nuclear crisis to Iran's April 11 enrichment announcement, and Federer's peak season to his first French Open final run in early June.
 <!-- END GENERATED: timeline -->

@@ -8,6 +8,7 @@ A complete map of all content, organized by category. See also [TIMELINE.md](TIM
 | Topic | Description |
 |-------|-------------|
 | [2006 Lebanon War begins](history-politics/2006-lebanon-war.md) | Hezbollah's July 12 cross-border raid sparked a 34-day Israel–Hezbollah war; ceasefire under UN Resolution 1701. |
+| [Alexander Litvinenko poisoned in London](history-politics/litvinenko-poisoning.md) | Former FSB officer and British citizen died November 23 from polonium-210 poisoning; a UK inquiry later linked the killing to the Russian state. |
 | [Hamas wins the Palestinian legislative election](history-politics/2006-palestinian-legislative-election.md) | Hamas took 74 of 132 seats January 25, ending Fatah's dominance and triggering the 2007 Fatah–Hamas split. |
 | [Iran nuclear crisis and UN sanctions](history-politics/iran-nuclear-crisis-2006.md) | Iran's April 11 enrichment announcement triggered UN Resolutions 1696 and 1737 and a decade-long nuclear standoff. |
 | [Montenegro becomes independent](history-politics/montenegro-independence.md) | Referendum led to independence June 3; Europe's newest sovereign state. |

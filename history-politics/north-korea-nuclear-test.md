@@ -89,5 +89,6 @@ The 2006 test also marked the moment the Korean Peninsula question shifted from 
 - [Execution of Saddam Hussein](saddam-hussein-execution.md) — Iraq's defining moment, following North Korea's nuclear test.
 - [Montenegro Declares Independence](montenegro-independence.md) — another pivotal 2006 History & Politics event.
 - [2006 U.S. Midterm Elections](2006-us-midterm-elections.md) — held weeks after the nuclear test, the elections shifted American political dynamics.
+- [The Poisoning of Alexander Litvinenko](litvinenko-poisoning.md) — a November 2006 radiological killing that, with this test, made nuclear and radioactive materials a defining security anxiety of the year.
 - See the full [Timeline of 2006](../TIMELINE.md) and master [Index](../INDEX.md) for all concurrent events.
 <!-- END GENERATED: crossrefs -->
