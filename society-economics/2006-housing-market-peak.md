@@ -1,6 +1,6 @@
 ---
 title: "2006 Housing Market Peak & Subprime Warning Signs"
-date: 2006
+date: 2006-04-30
 category: "Society & Economics"
 ---
 

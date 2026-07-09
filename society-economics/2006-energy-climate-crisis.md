@@ -1,6 +1,6 @@
 ---
 title: "2006 Energy Crisis & Climate Awakening"
-date: 2006
+date: 2006-07-14
 category: "Society & Economics"
 ---
 

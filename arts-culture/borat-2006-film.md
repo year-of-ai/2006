@@ -1,6 +1,6 @@
 ---
 title: "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan"
-date: 2006
+date: 2006-11-03
 category: "Arts & Culture"
 ---
 
