@@ -13,5 +13,6 @@ Category index for the **Science & Technology** topics within the [2006 Knowledg
 | [Google acquires YouTube](google-acquires-youtube.md) | $1.65 billion stock acquisition announced October 9; a Web 2.0 landmark. |
 | [Windows Vista completed](windows-vista-release.md) | RTM reached November 8; Aero interface, User Account Control, DirectX 10. |
 | [PlayStation 3 and Nintendo Wii launch](gaming-consoles-2006.md) | Seventh-generation consoles launched in November; Wii motion controls broadened gaming. |
+| [The Web 2.0 Revolution of 2006](2006-web-2-0-revolution.md) | Twitter, Facebook's News Feed, the YouTube acquisition, and *Time*'s "You" crystallized the participatory web across 2006. |
 
 <!-- END GENERATED: category-index -->

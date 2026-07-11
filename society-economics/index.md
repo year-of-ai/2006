@@ -9,6 +9,7 @@ Category index for the **Society & Economics** topics within the [2006 Knowledge
 | [Enron executives convicted](enron-verdict-2006.md) | Kenneth Lay and Jeffrey Skilling found guilty of fraud and conspiracy May 25, capping the largest U.S. corporate-fraud case. |
 | [Crude oil prices surge to record highs](2006-crude-oil-prices.md) | WTI crude closed at a record ~$77/barrel July 14 amid surging demand and Middle East risk. |
 | [2006 Energy Crisis & Climate Awakening](2006-energy-climate-crisis.md) | Record oil prices and *An Inconvenient Truth* fused energy supply and climate into mainstream politics. |
+| [The 2006 Climate & Energy Nexus](2006-climate-energy-nexus.md) | *An Inconvenient Truth*, record oil prices, California's AB 32, and the Stern Review fused climate and energy into mainstream economics. |
 | [Yunus and Grameen Bank win the Nobel Peace Prize](grameen-yunus-nobel-2006.md) | Economist Muhammad Yunus and his microcredit bank honored October 13, mainstreaming microfinance as an anti-poverty tool. |
 | [*Time* names "You" Person of the Year](time-you-person-of-the-year.md) | Recognized user-generated content and the rise of Web 2.0, December. |
 

@@ -29,6 +29,7 @@ A complete map of all content, organized by category. See also [TIMELINE.md](TIM
 | [Google acquires YouTube](science-technology/google-acquires-youtube.md) | $1.65 billion stock acquisition announced October 9. |
 | [Windows Vista completed](science-technology/windows-vista-release.md) | RTM reached November 8; Aero interface, User Account Control, DirectX 10. |
 | [PlayStation 3 and Nintendo Wii launch](science-technology/gaming-consoles-2006.md) | Seventh-generation consoles launched in November; Wii motion controls broadened gaming. |
+| [The Web 2.0 Revolution of 2006](science-technology/2006-web-2-0-revolution.md) | Twitter, Facebook's News Feed, the YouTube acquisition, and *Time*'s "You" crystallized the participatory web across 2006. |
 
 ## Arts & Culture ([index](arts-culture/index.md))
 
@@ -50,6 +51,7 @@ A complete map of all content, organized by category. See also [TIMELINE.md](TIM
 | [Enron executives convicted](society-economics/enron-verdict-2006.md) | Kenneth Lay and Jeffrey Skilling found guilty of fraud and conspiracy May 25, capping the largest U.S. corporate-fraud case. |
 | [Crude oil prices surge to record highs](society-economics/2006-crude-oil-prices.md) | WTI crude closed at a record ~$77/barrel July 14 amid surging demand and Middle East risk. |
 | [2006 Energy Crisis & Climate Awakening](society-economics/2006-energy-climate-crisis.md) | Record oil prices and *An Inconvenient Truth* fused energy supply and climate into mainstream politics. |
+| [The 2006 Climate & Energy Nexus](society-economics/2006-climate-energy-nexus.md) | *An Inconvenient Truth*, record oil prices, California's AB 32, and the Stern Review fused climate and energy into mainstream economics. |
 | [Yunus and Grameen Bank win the Nobel Peace Prize](society-economics/grameen-yunus-nobel-2006.md) | Economist Muhammad Yunus and his microcredit bank honored October 13, mainstreaming microfinance as an anti-poverty tool. |
 | [*Time* names "You" Person of the Year](society-economics/time-you-person-of-the-year.md) | Recognized user-generated content and the rise of Web 2.0, December. |
 
