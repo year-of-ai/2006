@@ -9,6 +9,7 @@ A complete map of all content, organized by category. See also [TIMELINE.md](TIM
 |-------|-------------|
 | [2006 Lebanon War begins](history-politics/2006-lebanon-war.md) | Hezbollah's July 12 cross-border raid sparked a 34-day Israel–Hezbollah war; ceasefire under UN Resolution 1701. |
 | [Alexander Litvinenko poisoned in London](history-politics/litvinenko-poisoning.md) | Former FSB officer and British citizen died November 23 from polonium-210 poisoning; a UK inquiry later linked the killing to the Russian state. |
+| [Ariel Sharon suffers a massive stroke](history-politics/ariel-sharon-stroke.md) | A January 4 hemorrhagic stroke left the Israeli prime minister comatose until his 2014 death; power passed to Ehud Olmert. |
 | [Hamas wins the Palestinian legislative election](history-politics/2006-palestinian-legislative-election.md) | Hamas took 74 of 132 seats January 25, ending Fatah's dominance and triggering the 2007 Fatah–Hamas split. |
 | [Iran nuclear crisis and UN sanctions](history-politics/iran-nuclear-crisis-2006.md) | Iran's April 11 enrichment announcement triggered UN Resolutions 1696 and 1737 and a decade-long nuclear standoff. |
 | [Montenegro becomes independent](history-politics/montenegro-independence.md) | Referendum led to independence June 3; Europe's newest sovereign state. |
@@ -39,6 +40,7 @@ A complete map of all content, organized by category. See also [TIMELINE.md](TIM
 | [*Borat* released](arts-culture/borat-2006-film.md) | Sacha Baron Cohen's ambush mockumentary opened November 3; a $260M global phenomenon and satire-ethics flashpoint. |
 | [*Casino Royale* released](arts-culture/casino-royale-daniel-craig.md) | Daniel Craig debuts as 007; franchise rebooted, November 2006. |
 | [Italy wins the FIFA World Cup](arts-culture/fifa-world-cup-2006.md) | Italy beat France on penalties July 9 for a fourth title. |
+| [*Pirates of the Caribbean: Dead Man's Chest* released](arts-culture/pirates-of-the-caribbean-dead-mans-chest.md) | The $225M sequel opened July 7; a record $1.066B worldwide made it 2006's top film and a digital-effects landmark. |
 | [Shakira's "Hips Don't Lie" tops the charts](arts-culture/shakira-2006-music-breakthrough.md) | Shakira and Wyclef Jean hit No. 1 on the Hot 100 June 17, her U.S. mainstream breakthrough. |
 | [The Devil Wears Prada released](arts-culture/the-devil-wears-prada-2006.md) | Streep–Hathaway fashion comedy opened June 30; $327M worldwide and Streep's record 14th Oscar nod. |
 | [Turin hosts the 2006 Winter Olympics](arts-culture/2006-winter-olympics.md) | XX Olympic Winter Games opened February 10; Germany led the medals amid an Austrian-team doping raid. |
@@ -60,6 +62,7 @@ A complete map of all content, organized by category. See also [TIMELINE.md](TIM
 | Topic | Description |
 |-------|-------------|
 | [Roger Federer's peak season](people/roger-federer.md) | Swiss tennis champion's statistical peak — a 92–5 record, 12 titles, and three of four majors in 2006. |
+| [Coretta Scott King dies](people/coretta-scott-king.md) | Civil rights leader and widow of Martin Luther King Jr. died January 30 aged 78; first woman to lie in state at Georgia's Capitol. |
 | [Slobodan Milošević dies on trial](people/slobodan-milosevic.md) | Former Yugoslav president died of a heart attack in his ICTY cell March 11 aged 64, ending his war-crimes trial with no verdict. |
 | [Steve Irwin dies](people/steve-irwin.md) | "Crocodile Hunter" killed by a stingray barb, September 4. |
 | [Augusto Pinochet dies](people/augusto-pinochet.md) | Chilean dictator (1973–1990) died December 10 aged 91, still facing 300+ human-rights charges. |

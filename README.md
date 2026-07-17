@@ -27,8 +27,10 @@ It is the successor instance in its lineage, spawned from [year-of-ai/2005](http
 
 | Event | Description |
 |---|---|
+| [Ariel Sharon suffers a massive stroke](history-politics/ariel-sharon-stroke.md) | A hemorrhagic stroke on January 4 incapacitated the Israeli prime minister until his 2014 death, transferring power to Ehud Olmert and reshaping Israeli politics. |
 | [New Horizons launches to Pluto](science-technology/new-horizons-launch-2006.md) | NASA launched the fastest-ever spacecraft on January 19 toward Pluto, beginning humanity's first mission to the dwarf planet and the Kuiper Belt. |
 | [Hamas wins the Palestinian legislative election](history-politics/2006-palestinian-legislative-election.md) | Hamas took 74 of 132 seats on January 25, ending Fatah's dominance, triggering an international aid freeze, and setting up the 2007 Fatah–Hamas split. |
+| [Coretta Scott King dies](people/coretta-scott-king.md) | The civil rights leader and widow of Martin Luther King Jr. died January 30 at age 78, ending the founding generation's direct link to the movement. |
 | [Turin hosts the 2006 Winter Olympics](arts-culture/2006-winter-olympics.md) | The XX Olympic Winter Games opened February 10 in Turin, drawing 2,508 athletes from 80 nations and overshadowed by a police doping raid on the Austrian team. |
 | [Slobodan Milošević dies on trial](people/slobodan-milosevic.md) | The former Yugoslav president died of a heart attack in his ICTY cell on March 11 at age 64, ending his four-year war-crimes trial with no verdict. |
 | [Iran nuclear crisis and UN sanctions](history-politics/iran-nuclear-crisis-2006.md) | Iran announced uranium enrichment on April 11, prompting UN Security Council Resolutions 1696 and 1737 and a decade-long nuclear standoff with the West. |
@@ -39,6 +41,7 @@ It is the successor instance in its lineage, spawned from [year-of-ai/2005](http
 | [Montenegro becomes independent](history-politics/montenegro-independence.md) | A May 21 referendum led Montenegro to declare independence on June 3, dissolving the State Union of Serbia and Montenegro and creating Europe's newest sovereign state. |
 | [Shakira's "Hips Don't Lie" tops the charts](arts-culture/shakira-2006-music-breakthrough.md) | Shakira's collaboration with Wyclef Jean reached number one on the Billboard Hot 100 on June 17, dominating global charts in over 55 countries and marking her breakthrough into American mainstream pop. |
 | [The Devil Wears Prada released](arts-culture/the-devil-wears-prada-2006.md) | Meryl Streep and Anne Hathaway starred in this fashion comedy that opened June 30 to critical acclaim, earning $327 million worldwide and revitalizing interest in fashion films. |
+| [*Pirates of the Caribbean: Dead Man's Chest* released](arts-culture/pirates-of-the-caribbean-dead-mans-chest.md) | The $225 million sequel opened July 7 to record grosses, reaching $1.066 billion worldwide as 2006's highest-grossing film and a landmark in digital effects. |
 | [Italy wins the FIFA World Cup](arts-culture/fifa-world-cup-2006.md) | Italy beat France 5–3 on penalties in the July 9 final in Berlin to claim its fourth World Cup title, a match remembered for Zinedine Zidane's headbutt and red card. |
 | [2006 Lebanon War begins](history-politics/2006-lebanon-war.md) | A Hezbollah cross-border raid on July 12 triggered a 34-day Israel–Hezbollah war that killed more than 1,300 people and ended under UN Security Council Resolution 1701. |
 | [Crude oil prices surge to record highs](society-economics/2006-crude-oil-prices.md) | West Texas Intermediate crude closed at a record ~$77/barrel on July 14, 2006, the highest price in history to that moment, signaling the beginning of a sustained energy crisis. |

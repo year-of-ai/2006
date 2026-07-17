@@ -6,6 +6,7 @@ Category index for the **People** topics within the [2006 Knowledge Base](../REA
 | Topic | Description |
 |-------|-------------|
 | [Roger Federer's peak season](roger-federer.md) | Swiss tennis champion's statistical peak — a 92–5 record, 12 titles, and three of four majors in 2006. |
+| [Coretta Scott King dies](coretta-scott-king.md) | Civil rights leader and widow of Martin Luther King Jr. died January 30 aged 78; first woman to lie in state at Georgia's Capitol. |
 | [Slobodan Milošević dies on trial](slobodan-milosevic.md) | Former Yugoslav president died of a heart attack in his ICTY cell on March 11 aged 64, ending his war-crimes trial with no verdict. |
 | [Steve Irwin dies](steve-irwin.md) | "Crocodile Hunter" conservationist killed by a stingray barb, September 4. |
 | [Augusto Pinochet dies](augusto-pinochet.md) | Chilean dictator (1973–1990) died December 10 aged 91, still facing 300+ human-rights charges. |
