@@ -30,7 +30,6 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-07-09 | Italy wins the FIFA World Cup | Arts & Culture | [file]({{ '/news/arts-culture/fifa-world-cup-2006/' | relative_url }}) |
 | 2006-07-12 | 2006 Lebanon War begins | History & Politics | [file]({{ '/news/history-politics/2006-lebanon-war/' | relative_url }}) |
 | 2006-07-14 | Crude oil prices surge to record highs | Society & Economics | [file]({{ '/news/society-economics/2006-crude-oil-prices/' | relative_url }}) |
-| 2006-07-14 | 2006 Energy Crisis & Climate Awakening | Society & Economics | [file]({{ '/news/society-economics/2006-energy-climate-crisis/' | relative_url }}) |
 | 2006-07-14 | The 2006 Climate & Energy Nexus | Society & Economics | [file]({{ '/news/society-economics/2006-climate-energy-nexus/' | relative_url }}) |
 | 2006-07-15 | Twitter launched | Science & Technology | [file]({{ '/news/science-technology/twitter-launch/' | relative_url }}) |
 | 2006-08-24 | Pluto reclassified as a dwarf planet | Science & Technology | [file]({{ '/news/science-technology/pluto-dwarf-planet/' | relative_url }}) |
@@ -53,5 +52,5 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-12-30 | Saddam Hussein executed | History & Politics | [file]({{ '/news/history-politics/saddam-hussein-execution/' | relative_url }}) |
 | 2006-12-31 | The Web 2.0 Revolution of 2006 | Science & Technology | [file]({{ '/news/science-technology/2006-web-2-0-revolution/' | relative_url }}) |
 
-> Generated from 41 knowledge-table rows; all 41 resolve to dedicated topic files. Year-spanning analytical topics are anchored to a representative dated milestone: the housing-market peak to the April 2006 home-price peak, the energy/climate convergence to the July 14 record oil price, the climate-and-energy nexus likewise to the July 14 oil peak, the Web 2.0 revolution to a December 31 year-end synthesis, the H5N1 global spread to its mid-2006 peak, the Iran nuclear crisis to Iran's April 11 enrichment announcement, and Federer's peak season to his first French Open final run in early June.
+> Generated from 40 knowledge-table rows; all 40 resolve to dedicated topic files. Year-spanning analytical topics are anchored to a representative dated milestone: the housing-market peak to the April 2006 home-price peak, the climate-and-energy nexus to the July 14 record oil price, the Web 2.0 revolution to a December 31 year-end synthesis, the H5N1 global spread to its mid-2006 peak, the Iran nuclear crisis to Iran's April 11 enrichment announcement, and Federer's peak season to his first French Open final run in early June.
 <!-- END GENERATED: timeline -->

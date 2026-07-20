@@ -65,7 +65,7 @@ The bubble was not uniform: the most extreme appreciation — and subsequent dec
 
 The housing boom was both a driver and symptom of broader 2006 economic conditions. The construction sector — residential building — accounted for approximately 6% of U.S. GDP at peak, well above the post-WWII average of 4.5%. Housing-related employment (construction, real estate brokerage, mortgage origination, home furnishings) added millions of jobs. The broader consumer spending boom of 2003–2006 was partly financed by home equity extraction — Americans withdrew an estimated $700 billion in home equity in 2005–2006 through cash-out refinancings and home equity lines of credit (HELOCs), spending that money on consumer goods, education, and services.
 
-The [2006 energy price spike]({{ '/news/society-economics/2006-energy-climate-crisis/' | relative_url }}) — crude oil at $77/barrel by July — represented a demand-side squeeze on over-leveraged households simultaneously facing higher adjustable mortgage payments, adding to the household financial stress beginning to accumulate by late 2006.
+The [2006 energy price spike]({{ '/news/society-economics/2006-crude-oil-prices/' | relative_url }}) — crude oil at $77/barrel by July — represented a demand-side squeeze on over-leveraged households simultaneously facing higher adjustable mortgage payments, adding to the household financial stress beginning to accumulate by late 2006.
 
 ## Significance
 
