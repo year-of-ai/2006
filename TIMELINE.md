@@ -16,6 +16,7 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-01-25 | Hamas wins the Palestinian legislative election | History & Politics | [file]({{ '/news/history-politics/2006-palestinian-legislative-election/' | relative_url }}) |
 | 2006-01-30 | Coretta Scott King dies | People | [file]({{ '/news/people/coretta-scott-king/' | relative_url }}) |
 | 2006-02-10 | Turin hosts the 2006 Winter Olympics | Arts & Culture | [file]({{ '/news/arts-culture/2006-winter-olympics/' | relative_url }}) |
+| 2006-03-05 | *Brokeback Mountain* dominates the 2006 awards season | Arts & Culture | [file]({{ '/news/arts-culture/brokeback-mountain/' | relative_url }}) |
 | 2006-03-11 | Slobodan Milošević dies on trial | People | [file]({{ '/news/people/slobodan-milosevic/' | relative_url }}) |
 | 2006-04-11 | Iran nuclear crisis and UN sanctions | History & Politics | [file]({{ '/news/history-politics/iran-nuclear-crisis-2006/' | relative_url }}) |
 | 2006-04-30 | 2006 Housing Market Peak & Subprime Warning Signs | Society & Economics | [file]({{ '/news/society-economics/2006-housing-market-peak/' | relative_url }}) |
@@ -26,6 +27,7 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-06-04 | Roger Federer's peak season | People | [file]({{ '/news/people/roger-federer/' | relative_url }}) |
 | 2006-06-17 | Shakira's "Hips Don't Lie" tops the charts | Arts & Culture | [file]({{ '/news/arts-culture/shakira-2006-music-breakthrough/' | relative_url }}) |
 | 2006-06-30 | The Devil Wears Prada released | Arts & Culture | [file]({{ '/news/arts-culture/the-devil-wears-prada-2006/' | relative_url }}) |
+| 2006-06-30 | Darfur genocide crisis and international response | History & Politics | [file]({{ '/news/history-politics/darfur-genocide-crisis/' | relative_url }}) |
 | 2006-07-07 | Pirates of the Caribbean: Dead Man's Chest released | Arts & Culture | [file]({{ '/news/arts-culture/pirates-of-the-caribbean-dead-mans-chest/' | relative_url }}) |
 | 2006-07-09 | Italy wins the FIFA World Cup | Arts & Culture | [file]({{ '/news/arts-culture/fifa-world-cup-2006/' | relative_url }}) |
 | 2006-07-12 | 2006 Lebanon War begins | History & Politics | [file]({{ '/news/history-politics/2006-lebanon-war/' | relative_url }}) |
@@ -39,6 +41,7 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-10-09 | North Korea's first nuclear test | History & Politics | [file]({{ '/news/history-politics/north-korea-nuclear-test/' | relative_url }}) |
 | 2006-10-09 | Google acquires YouTube | Science & Technology | [file]({{ '/news/science-technology/google-acquires-youtube/' | relative_url }}) |
 | 2006-10-13 | Yunus and Grameen Bank win the Nobel Peace Prize | Society & Economics | [file]({{ '/news/society-economics/grameen-yunus-nobel-2006/' | relative_url }}) |
+| 2006-10-30 | The Stern Review on the economics of climate change | Society & Economics | [file]({{ '/news/society-economics/stern-review-2006/' | relative_url }}) |
 | 2006-11-03 | Borat released | Arts & Culture | [file]({{ '/news/arts-culture/borat-2006-film/' | relative_url }}) |
 | 2006-11-07 | U.S. Democrats win midterm elections | History & Politics | [file]({{ '/news/history-politics/2006-us-midterm-elections/' | relative_url }}) |
 | 2006-11-08 | Windows Vista completed | Science & Technology | [file]({{ '/news/science-technology/windows-vista-release/' | relative_url }}) |
@@ -52,5 +55,5 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-12-30 | Saddam Hussein executed | History & Politics | [file]({{ '/news/history-politics/saddam-hussein-execution/' | relative_url }}) |
 | 2006-12-31 | The Web 2.0 Revolution of 2006 | Science & Technology | [file]({{ '/news/science-technology/2006-web-2-0-revolution/' | relative_url }}) |
 
-> Generated from 40 knowledge-table rows; all 40 resolve to dedicated topic files. Year-spanning analytical topics are anchored to a representative dated milestone: the housing-market peak to the April 2006 home-price peak, the climate-and-energy nexus to the July 14 record oil price, the Web 2.0 revolution to a December 31 year-end synthesis, the H5N1 global spread to its mid-2006 peak, the Iran nuclear crisis to Iran's April 11 enrichment announcement, and Federer's peak season to his first French Open final run in early June.
+> Generated from 43 knowledge-table rows; all 43 resolve to dedicated topic files. Year-spanning analytical topics are anchored to a representative dated milestone: the housing-market peak to the April 2006 home-price peak, the climate-and-energy nexus to the July 14 record oil price, the Web 2.0 revolution to a December 31 year-end synthesis, the H5N1 global spread to its mid-2006 peak, the Iran nuclear crisis to Iran's April 11 enrichment announcement, Federer's peak season to his first French Open final run in early June, and the year-long Darfur genocide crisis to a June 30 mid-crisis point between the May 5 Darfur Peace Agreement and the August 31 UN Resolution 1706.
 <!-- END GENERATED: timeline -->
