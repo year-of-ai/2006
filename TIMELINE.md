@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Timeline of 2006
+preview: /images/previews/timeline-of-2006.svg
 permalink: "/TIMELINE/"
 ---
 
@@ -18,10 +19,13 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-02-10 | Turin hosts the 2006 Winter Olympics | Arts & Culture | [file]({{ '/news/arts-culture/2006-winter-olympics/' | relative_url }}) |
 | 2006-03-05 | *Brokeback Mountain* dominates the 2006 awards season | Arts & Culture | [file]({{ '/news/arts-culture/brokeback-mountain/' | relative_url }}) |
 | 2006-03-11 | Slobodan Milošević dies on trial | People | [file]({{ '/news/people/slobodan-milosevic/' | relative_url }}) |
+| 2006-03-20 | Japan wins the inaugural World Baseball Classic | Arts & Culture | [file]({{ '/news/arts-culture/world-baseball-classic-2006/' | relative_url }}) |
 | 2006-04-11 | Iran nuclear crisis and UN sanctions | History & Politics | [file]({{ '/news/history-politics/iran-nuclear-crisis-2006/' | relative_url }}) |
 | 2006-04-30 | 2006 Housing Market Peak & Subprime Warning Signs | Society & Economics | [file]({{ '/news/society-economics/2006-housing-market-peak/' | relative_url }}) |
+| 2006-05-17 | Barcelona wins the UEFA Champions League Final | Arts & Culture | [file]({{ '/news/arts-culture/champions-league-final-2006/' | relative_url }}) |
 | 2006-05-24 | *An Inconvenient Truth* released | Arts & Culture | [file]({{ '/news/arts-culture/an-inconvenient-truth/' | relative_url }}) |
 | 2006-05-25 | Enron executives convicted | Society & Economics | [file]({{ '/news/society-economics/enron-verdict-2006/' | relative_url }}) |
+| 2006-05-28 | East Timor violence and Australian intervention | History & Politics | [file]({{ '/news/history-politics/east-timor-violence-australian-intervention/' | relative_url }}) |
 | 2006-06-01 | H5N1 avian influenza spreads globally | Science & Technology | [file]({{ '/news/science-technology/h5n1-avian-influenza-2006/' | relative_url }}) |
 | 2006-06-03 | Montenegro becomes independent | History & Politics | [file]({{ '/news/history-politics/montenegro-independence/' | relative_url }}) |
 | 2006-06-04 | Roger Federer's peak season | People | [file]({{ '/news/people/roger-federer/' | relative_url }}) |
@@ -58,5 +62,5 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-12-30 | Saddam Hussein executed | History & Politics | [file]({{ '/news/history-politics/saddam-hussein-execution/' | relative_url }}) |
 | 2006-12-31 | The Web 2.0 Revolution of 2006 | Science & Technology | [file]({{ '/news/science-technology/2006-web-2-0-revolution/' | relative_url }}) |
 
-> Generated from 46 knowledge-table rows; all 46 resolve to dedicated topic files. Year-spanning analytical topics are anchored to a representative dated milestone: the housing-market peak to the April 2006 home-price peak, the climate-and-energy nexus to the July 14 record oil price, the Web 2.0 revolution to a December 31 year-end synthesis, the H5N1 global spread to its mid-2006 peak, the Iran nuclear crisis to Iran's April 11 enrichment announcement, Federer's peak season to his first French Open final run in early June, and the year-long Darfur genocide crisis to a June 30 mid-crisis point between the May 5 Darfur Peace Agreement and the August 31 UN Resolution 1706.
+> Generated from 49 knowledge-table rows; all 49 resolve to dedicated topic files. Year-spanning analytical topics are anchored to a representative dated milestone: the housing-market peak to the April 2006 home-price peak, the climate-and-energy nexus to the July 14 record oil price, the Web 2.0 revolution to a December 31 year-end synthesis, the H5N1 global spread to its mid-2006 peak, the Iran nuclear crisis to Iran's April 11 enrichment announcement, Federer's peak season to his first French Open final run in early June, and the year-long Darfur genocide crisis to a June 30 mid-crisis point between the May 5 Darfur Peace Agreement and the August 31 UN Resolution 1706.
 <!-- END GENERATED: timeline -->

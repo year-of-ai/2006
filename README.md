@@ -2,6 +2,7 @@
 title: The Year 2006 — Knowledge Index
 permalink: "/knowledge-index/"
 description: The full 2006 knowledge table — every notable event, linked to its article.
+preview: /images/previews/the-year-2006-knowledge-index.svg
 ---
 
 # The Year 2006
@@ -40,9 +41,12 @@ It is the successor instance in its lineage, spawned from [year-of-ai/2005](http
 | [Turin hosts the 2006 Winter Olympics]({{ '/news/arts-culture/2006-winter-olympics/' | relative_url }}) | The XX Olympic Winter Games opened February 10 in Turin, drawing 2,508 athletes from 80 nations and overshadowed by a police doping raid on the Austrian team. |
 | [*Brokeback Mountain* dominates the 2006 awards season]({{ '/news/arts-culture/brokeback-mountain/' | relative_url }}) | Ang Lee's romance swept the 2006 awards season and won three Oscars on March 5 but lost Best Picture to *Crash*, mainstreaming LGBTQ cinema. |
 | [Slobodan Milošević dies on trial]({{ '/news/people/slobodan-milosevic/' | relative_url }}) | The former Yugoslav president died of a heart attack in his ICTY cell on March 11 at age 64, ending his four-year war-crimes trial with no verdict. |
+| [Japan wins the inaugural World Baseball Classic]({{ '/news/arts-culture/world-baseball-classic-2006/' | relative_url }}) | Japan defeated Cuba 10-6 on March 20 in San Diego to win the first World Baseball Classic championship, establishing a new premier international baseball tournament held every four years. |
 | [Iran nuclear crisis and UN sanctions]({{ '/news/history-politics/iran-nuclear-crisis-2006/' | relative_url }}) | Iran announced uranium enrichment on April 11, prompting UN Security Council Resolutions 1696 and 1737 and a decade-long nuclear standoff with the West. |
+| [Barcelona wins the UEFA Champions League Final]({{ '/news/arts-culture/champions-league-final-2006/' | relative_url }}) | Barcelona defeated Arsenal 2-1 on May 17 at Stade de France in Paris to win the 2006 UEFA Champions League, Europe's premier club football championship. |
 | [*An Inconvenient Truth* released]({{ '/news/arts-culture/an-inconvenient-truth/' | relative_url }}) | Directed by Davis Guggenheim and featuring Al Gore, the documentary premiered May 24 and became the highest-grossing documentary film at the time, bringing climate change into mainstream cultural consciousness. |
 | [Enron executives convicted]({{ '/news/society-economics/enron-verdict-2006/' | relative_url }}) | A Houston jury convicted founder Kenneth Lay and ex-CEO Jeffrey Skilling of fraud and conspiracy on May 25, capping the largest U.S. corporate-fraud case and validating post-Enron reforms. |
+| [East Timor violence and Australian intervention]({{ '/news/history-politics/east-timor-violence-australian-intervention/' | relative_url }}) | Post-independence violence erupted in Dili on May 28 after military pay-equity protests, displacing 150,000 civilians and prompting Australian military intervention, threatening regional stability. |
 | [H5N1 avian influenza spreads globally]({{ '/news/science-technology/h5n1-avian-influenza-2006/' | relative_url }}) | H5N1 bird flu spread from Asia into Europe, Africa, and the Middle East in 2006, its peak human-case year, driving worldwide pandemic-preparedness efforts. |
 | [Montenegro becomes independent]({{ '/news/history-politics/montenegro-independence/' | relative_url }}) | A May 21 referendum led Montenegro to declare independence on June 3, dissolving the State Union of Serbia and Montenegro and creating Europe's newest sovereign state. |
 | [Shakira's "Hips Don't Lie" tops the charts]({{ '/news/arts-culture/shakira-2006-music-breakthrough/' | relative_url }}) | Shakira's collaboration with Wyclef Jean reached number one on the Billboard Hot 100 on June 17, dominating global charts in over 55 countries and marking her breakthrough into American mainstream pop. |
