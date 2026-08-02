@@ -36,10 +36,12 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-07-07 | Pirates of the Caribbean: Dead Man's Chest released | Arts & Culture | [file]({{ '/news/arts-culture/pirates-of-the-caribbean-dead-mans-chest/' | relative_url }}) |
 | 2006-07-09 | Italy wins the FIFA World Cup | Arts & Culture | [file]({{ '/news/arts-culture/fifa-world-cup-2006/' | relative_url }}) |
 | 2006-07-09 | Zinedine Zidane's final season and retirement | People | [file]({{ '/news/people/zinedine-zidane/' | relative_url }}) |
+| 2006-07-11 | Mumbai suburban train bombings | History & Politics | [file]({{ '/news/history-politics/mumbai-train-bombings/' | relative_url }}) |
 | 2006-07-12 | 2006 Lebanon War begins | History & Politics | [file]({{ '/news/history-politics/2006-lebanon-war/' | relative_url }}) |
 | 2006-07-14 | Crude oil prices surge to record highs | Society & Economics | [file]({{ '/news/society-economics/2006-crude-oil-prices/' | relative_url }}) |
 | 2006-07-14 | The 2006 Climate & Energy Nexus | Society & Economics | [file]({{ '/news/society-economics/2006-climate-energy-nexus/' | relative_url }}) |
 | 2006-07-15 | Twitter launched | Science & Technology | [file]({{ '/news/science-technology/twitter-launch/' | relative_url }}) |
+| 2006-08-22 | Perelman proves the Poincaré conjecture and declines the Fields Medal | Science & Technology | [file]({{ '/news/science-technology/poincare-perelman-fields-medal/' | relative_url }}) |
 | 2006-08-24 | Pluto reclassified as a dwarf planet | Science & Technology | [file]({{ '/news/science-technology/pluto-dwarf-planet/' | relative_url }}) |
 | 2006-09-01 | 2006 technology boom: Web 2.0 IPOs and corporate deals | Society & Economics | [file]({{ '/news/society-economics/tech-ipo-wave/' | relative_url }}) |
 | 2006-09-04 | Steve Irwin dies | People | [file]({{ '/news/people/steve-irwin/' | relative_url }}) |
