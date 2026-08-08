@@ -17,6 +17,7 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-01-25 | Hamas wins the Palestinian legislative election | History & Politics | [file]({{ '/news/history-politics/2006-palestinian-legislative-election/' | relative_url }}) |
 | 2006-01-30 | Coretta Scott King dies | People | [file]({{ '/news/people/coretta-scott-king/' | relative_url }}) |
 | 2006-02-10 | Turin hosts the 2006 Winter Olympics | Arts & Culture | [file]({{ '/news/arts-culture/2006-winter-olympics/' | relative_url }}) |
+| 2006-02-22 | The al-Askari Mosque is bombed in Samarra | History & Politics | [file]({{ '/news/history-politics/al-askari-mosque-bombing/' | relative_url }}) |
 | 2006-03-05 | *Brokeback Mountain* dominates the 2006 awards season | Arts & Culture | [file]({{ '/news/arts-culture/brokeback-mountain/' | relative_url }}) |
 | 2006-03-11 | Slobodan Milošević dies on trial | People | [file]({{ '/news/people/slobodan-milosevic/' | relative_url }}) |
 | 2006-03-20 | Japan wins the inaugural World Baseball Classic | Arts & Culture | [file]({{ '/news/arts-culture/world-baseball-classic-2006/' | relative_url }}) |

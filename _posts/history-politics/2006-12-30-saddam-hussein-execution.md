@@ -73,7 +73,7 @@ The timing on the first morning of **Eid al-Adha** was also criticized, includin
 
 **Arab world**: Reactions split largely along sectarian lines. Many Shia Iraqis and Lebanese celebrated. In Sunni-majority countries and communities—including Jordan, the Palestinian territories, and Sunni regions of Iraq—there were protests and expressions of condemnation.
 
-**Iraq**: A dusk-to-dawn curfew was imposed in Baghdad on December 30. Despite it, sporadic violence occurred. The sectarian civil war that had escalated through 2006 continued unabated; the execution did not stabilise the security situation.
+**Iraq**: A dusk-to-dawn curfew was imposed in Baghdad on December 30. Despite it, sporadic violence occurred. The [sectarian civil war that had escalated through 2006]({{ '/news/history-politics/al-askari-mosque-bombing/' | relative_url }})—touched off by the February bombing of the al-Askari Shrine—continued unabated; the execution did not stabilise the security situation.
 
 ## Significance
 
