@@ -32,6 +32,7 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-06-04 | Roger Federer's peak season | People | [file]({{ '/news/people/roger-federer/' | relative_url }}) |
 | 2006-06-15 | Artificial Intelligence and Robotics Advances | Science & Technology | [file]({{ '/news/science-technology/ai-robotics-2006/' | relative_url }}) |
 | 2006-06-17 | Shakira's "Hips Don't Lie" tops the charts | Arts & Culture | [file]({{ '/news/arts-culture/shakira-2006-music-breakthrough/' | relative_url }}) |
+| 2006-06-23 | Aaron Spelling dies | People | [file]({{ '/news/people/aaron-spelling/' | relative_url }}) |
 | 2006-06-25 | Warren Buffett pledges his fortune to charity | Society & Economics | [file]({{ '/news/society-economics/buffett-philanthropy-pledge/' | relative_url }}) |
 | 2006-06-30 | The Devil Wears Prada released | Arts & Culture | [file]({{ '/news/arts-culture/the-devil-wears-prada-2006/' | relative_url }}) |
 | 2006-06-30 | Darfur genocide crisis and international response | History & Politics | [file]({{ '/news/history-politics/darfur-genocide-crisis/' | relative_url }}) |
@@ -58,6 +59,7 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-11-08 | Windows Vista completed | Science & Technology | [file]({{ '/news/science-technology/windows-vista-release/' | relative_url }}) |
 | 2006-11-11 | PlayStation 3 and Nintendo Wii launch | Science & Technology | [file]({{ '/news/science-technology/gaming-consoles-2006/' | relative_url }}) |
 | 2006-11-17 | *Casino Royale* released | Arts & Culture | [file]({{ '/news/arts-culture/casino-royale-daniel-craig/' | relative_url }}) |
+| 2006-11-20 | Robert Altman dies | People | [file]({{ '/news/people/robert-altman/' | relative_url }}) |
 | 2006-11-23 | Alexander Litvinenko poisoned in London | History & Politics | [file]({{ '/news/history-politics/litvinenko-poisoning/' | relative_url }}) |
 | 2006-12-10 | Augusto Pinochet dies | People | [file]({{ '/news/people/augusto-pinochet/' | relative_url }}) |
 | 2006-12-16 | *Time* names "You" Person of the Year | Society & Economics | [file]({{ '/news/society-economics/time-you-person-of-the-year/' | relative_url }}) |
@@ -66,5 +68,5 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-12-30 | Saddam Hussein executed | History & Politics | [file]({{ '/news/history-politics/saddam-hussein-execution/' | relative_url }}) |
 | 2006-12-31 | The Web 2.0 Revolution of 2006 | Science & Technology | [file]({{ '/news/science-technology/2006-web-2-0-revolution/' | relative_url }}) |
 
-> Generated from 52 knowledge-table rows; all 52 resolve to dedicated topic files. Year-spanning analytical topics are anchored to a representative dated milestone: the housing-market peak to the April 2006 home-price peak, the climate-and-energy nexus to the July 14 record oil price, the Web 2.0 revolution to a December 31 year-end synthesis, the H5N1 global spread to its mid-2006 peak, the Iran nuclear crisis to Iran's April 11 enrichment announcement, Federer's peak season to his first French Open final run in early June, and the year-long Darfur genocide crisis to a June 30 mid-crisis point between the May 5 Darfur Peace Agreement and the August 31 UN Resolution 1706.
+> Generated from 55 knowledge-table rows; all 55 resolve to dedicated topic files. Year-spanning analytical topics are anchored to a representative dated milestone: the housing-market peak to the April 2006 home-price peak, the climate-and-energy nexus to the July 14 record oil price, the Web 2.0 revolution to a December 31 year-end synthesis, the H5N1 global spread to its mid-2006 peak, the Iran nuclear crisis to Iran's April 11 enrichment announcement, Federer's peak season to his first French Open final run in early June, and the year-long Darfur genocide crisis to a June 30 mid-crisis point between the May 5 Darfur Peace Agreement and the August 31 UN Resolution 1706.
 <!-- END GENERATED: timeline -->
