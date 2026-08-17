@@ -16,6 +16,7 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-01-19 | New Horizons launches to Pluto | Science & Technology | [file]({{ '/news/science-technology/new-horizons-launch-2006/' | relative_url }}) |
 | 2006-01-25 | Hamas wins the Palestinian legislative election | History & Politics | [file]({{ '/news/history-politics/2006-palestinian-legislative-election/' | relative_url }}) |
 | 2006-01-30 | Coretta Scott King dies | People | [file]({{ '/news/people/coretta-scott-king/' | relative_url }}) |
+| 2006-02-04 | The Jyllands-Posten Muhammad cartoons controversy | History & Politics | [file]({{ '/news/history-politics/jyllands-posten-muhammad-cartoons/' | relative_url }}) |
 | 2006-02-10 | Turin hosts the 2006 Winter Olympics | Arts & Culture | [file]({{ '/news/arts-culture/2006-winter-olympics/' | relative_url }}) |
 | 2006-02-22 | The al-Askari Mosque is bombed in Samarra | History & Politics | [file]({{ '/news/history-politics/al-askari-mosque-bombing/' | relative_url }}) |
 | 2006-03-05 | *Brokeback Mountain* dominates the 2006 awards season | Arts & Culture | [file]({{ '/news/arts-culture/brokeback-mountain/' | relative_url }}) |
@@ -23,6 +24,7 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-03-20 | Japan wins the inaugural World Baseball Classic | Arts & Culture | [file]({{ '/news/arts-culture/world-baseball-classic-2006/' | relative_url }}) |
 | 2006-04-11 | Iran nuclear crisis and UN sanctions | History & Politics | [file]({{ '/news/history-politics/iran-nuclear-crisis-2006/' | relative_url }}) |
 | 2006-04-30 | 2006 Housing Market Peak & Subprime Warning Signs | Society & Economics | [file]({{ '/news/society-economics/2006-housing-market-peak/' | relative_url }}) |
+| 2006-05-01 | The 2006 U.S. immigration-reform protests | Society & Economics | [file]({{ '/news/society-economics/2006-immigration-reform-protests/' | relative_url }}) |
 | 2006-05-17 | Barcelona wins the UEFA Champions League Final | Arts & Culture | [file]({{ '/news/arts-culture/champions-league-final-2006/' | relative_url }}) |
 | 2006-05-24 | *An Inconvenient Truth* released | Arts & Culture | [file]({{ '/news/arts-culture/an-inconvenient-truth/' | relative_url }}) |
 | 2006-05-25 | Enron executives convicted | Society & Economics | [file]({{ '/news/society-economics/enron-verdict-2006/' | relative_url }}) |
@@ -52,12 +54,14 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-09-19 | Thai military coup deposes Thaksin | History & Politics | [file]({{ '/news/history-politics/2006-thai-coup/' | relative_url }}) |
 | 2006-10-09 | North Korea's first nuclear test | History & Politics | [file]({{ '/news/history-politics/north-korea-nuclear-test/' | relative_url }}) |
 | 2006-10-09 | Google acquires YouTube | Science & Technology | [file]({{ '/news/science-technology/google-acquires-youtube/' | relative_url }}) |
+| 2006-10-12 | Orhan Pamuk wins the Nobel Prize in Literature | Arts & Culture | [file]({{ '/news/arts-culture/orhan-pamuk-nobel-literature/' | relative_url }}) |
 | 2006-10-13 | Yunus and Grameen Bank win the Nobel Peace Prize | Society & Economics | [file]({{ '/news/society-economics/grameen-yunus-nobel-2006/' | relative_url }}) |
 | 2006-10-30 | The Stern Review on the economics of climate change | Society & Economics | [file]({{ '/news/society-economics/stern-review-2006/' | relative_url }}) |
 | 2006-11-03 | Borat released | Arts & Culture | [file]({{ '/news/arts-culture/borat-2006-film/' | relative_url }}) |
 | 2006-11-07 | U.S. Democrats win midterm elections | History & Politics | [file]({{ '/news/history-politics/2006-us-midterm-elections/' | relative_url }}) |
 | 2006-11-08 | Windows Vista completed | Science & Technology | [file]({{ '/news/science-technology/windows-vista-release/' | relative_url }}) |
 | 2006-11-11 | PlayStation 3 and Nintendo Wii launch | Science & Technology | [file]({{ '/news/science-technology/gaming-consoles-2006/' | relative_url }}) |
+| 2006-11-16 | Milton Friedman dies | People | [file]({{ '/news/people/milton-friedman/' | relative_url }}) |
 | 2006-11-17 | *Casino Royale* released | Arts & Culture | [file]({{ '/news/arts-culture/casino-royale-daniel-craig/' | relative_url }}) |
 | 2006-11-20 | Robert Altman dies | People | [file]({{ '/news/people/robert-altman/' | relative_url }}) |
 | 2006-11-23 | Alexander Litvinenko poisoned in London | History & Politics | [file]({{ '/news/history-politics/litvinenko-poisoning/' | relative_url }}) |
@@ -68,5 +72,5 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-12-30 | Saddam Hussein executed | History & Politics | [file]({{ '/news/history-politics/saddam-hussein-execution/' | relative_url }}) |
 | 2006-12-31 | The Web 2.0 Revolution of 2006 | Science & Technology | [file]({{ '/news/science-technology/2006-web-2-0-revolution/' | relative_url }}) |
 
-> Generated from 55 knowledge-table rows; all 55 resolve to dedicated topic files. Year-spanning analytical topics are anchored to a representative dated milestone: the housing-market peak to the April 2006 home-price peak, the climate-and-energy nexus to the July 14 record oil price, the Web 2.0 revolution to a December 31 year-end synthesis, the H5N1 global spread to its mid-2006 peak, the Iran nuclear crisis to Iran's April 11 enrichment announcement, Federer's peak season to his first French Open final run in early June, and the year-long Darfur genocide crisis to a June 30 mid-crisis point between the May 5 Darfur Peace Agreement and the August 31 UN Resolution 1706.
+> Generated from 59 knowledge-table rows; all 59 resolve to dedicated topic files. Year-spanning analytical topics are anchored to a representative dated milestone: the housing-market peak to the April 2006 home-price peak, the climate-and-energy nexus to the July 14 record oil price, the Web 2.0 revolution to a December 31 year-end synthesis, the H5N1 global spread to its mid-2006 peak, the Iran nuclear crisis to Iran's April 11 enrichment announcement, Federer's peak season to his first French Open final run in early June, and the year-long Darfur genocide crisis to a June 30 mid-crisis point between the May 5 Darfur Peace Agreement and the August 31 UN Resolution 1706.
 <!-- END GENERATED: timeline -->
