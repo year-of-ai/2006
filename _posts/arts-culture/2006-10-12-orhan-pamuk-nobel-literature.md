@@ -9,7 +9,7 @@ tags:
 - turkey
 - free speech
 excerpt: "On October 12, 2006, the Swedish Academy awarded the Nobel Prize in Literature to Turkish novelist Orhan Pamuk — the first Turkish citizen to win a Nobel Prize — honoring a body of work that mapped the melancholy and East-West tensions of his native Istanbul, months after he had stood trial in Turkey for remarks about his country's history."
-preview: /images/previews/orhan-pamuk-nobel-literature.svg
+preview: /images/previews/arts-culture.svg
 permalink: "/news/arts-culture/orhan-pamuk-nobel-literature/"
 ---
 

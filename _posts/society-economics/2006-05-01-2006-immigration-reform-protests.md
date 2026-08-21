@@ -9,7 +9,7 @@ tags:
 - labor
 - united states
 excerpt: "In the spring of 2006, millions of people marched in more than 140 U.S. cities against a House bill that would have made unauthorized presence a felony, culminating in the May 1 'Day Without Immigrants' boycott — among the largest coordinated protests in American history."
-preview: /images/previews/2006-immigration-reform-protests.svg
+preview: /images/previews/society-economics.svg
 permalink: "/news/society-economics/2006-immigration-reform-protests/"
 ---
 

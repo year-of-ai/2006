@@ -9,7 +9,7 @@ tags:
 - denmark
 - diplomacy
 excerpt: "A set of twelve cartoons depicting the Prophet Muhammad, first published in Denmark in September 2005, escalated into a global diplomatic and religious crisis in early 2006 — embassy burnings, trade boycotts, and deadly protests across the Muslim world that framed a lasting debate over free expression and religious sensibility."
-preview: /images/previews/jyllands-posten-muhammad-cartoons.svg
+preview: /images/previews/history-politics.svg
 permalink: "/news/history-politics/jyllands-posten-muhammad-cartoons/"
 ---
 
