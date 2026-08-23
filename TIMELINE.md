@@ -19,8 +19,10 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-02-04 | The Jyllands-Posten Muhammad cartoons controversy | History & Politics | [file]({{ '/news/history-politics/jyllands-posten-muhammad-cartoons/' | relative_url }}) |
 | 2006-02-10 | Turin hosts the 2006 Winter Olympics | Arts & Culture | [file]({{ '/news/arts-culture/2006-winter-olympics/' | relative_url }}) |
 | 2006-02-22 | The al-Askari Mosque is bombed in Samarra | History & Politics | [file]({{ '/news/history-politics/al-askari-mosque-bombing/' | relative_url }}) |
+| 2006-02-23 | iTunes Music Store reaches one billionth song download | Science & Technology | [file]({{ '/news/science-technology/itunes-billionth-download/' | relative_url }}) |
 | 2006-03-05 | *Brokeback Mountain* dominates the 2006 awards season | Arts & Culture | [file]({{ '/news/arts-culture/brokeback-mountain/' | relative_url }}) |
 | 2006-03-11 | Slobodan Milošević dies on trial | People | [file]({{ '/news/people/slobodan-milosevic/' | relative_url }}) |
+| 2006-03-17 | *V for Vendetta* and the graphic-novel adaptation boom | Arts & Culture | [file]({{ '/news/arts-culture/v-for-vendetta/' | relative_url }}) |
 | 2006-03-20 | Japan wins the inaugural World Baseball Classic | Arts & Culture | [file]({{ '/news/arts-culture/world-baseball-classic-2006/' | relative_url }}) |
 | 2006-04-11 | Iran nuclear crisis and UN sanctions | History & Politics | [file]({{ '/news/history-politics/iran-nuclear-crisis-2006/' | relative_url }}) |
 | 2006-04-24 | Nepal's democracy movement ends absolute monarchy | History & Politics | [file]({{ '/news/history-politics/nepal-democracy-movement/' | relative_url }}) |
@@ -34,6 +36,7 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-06-03 | Montenegro becomes independent | History & Politics | [file]({{ '/news/history-politics/montenegro-independence/' | relative_url }}) |
 | 2006-06-04 | Roger Federer's peak season | People | [file]({{ '/news/people/roger-federer/' | relative_url }}) |
 | 2006-06-15 | Artificial Intelligence and Robotics Advances | Science & Technology | [file]({{ '/news/science-technology/ai-robotics-2006/' | relative_url }}) |
+| 2006-06-16 | Jack Black stars in Jared Hess's *Nacho Libre* | Arts & Culture | [file]({{ '/news/arts-culture/nacho-libre/' | relative_url }}) |
 | 2006-06-17 | Shakira's "Hips Don't Lie" tops the charts | Arts & Culture | [file]({{ '/news/arts-culture/shakira-2006-music-breakthrough/' | relative_url }}) |
 | 2006-06-23 | Aaron Spelling dies | People | [file]({{ '/news/people/aaron-spelling/' | relative_url }}) |
 | 2006-06-25 | Warren Buffett pledges his fortune to charity | Society & Economics | [file]({{ '/news/society-economics/buffett-philanthropy-pledge/' | relative_url }}) |
