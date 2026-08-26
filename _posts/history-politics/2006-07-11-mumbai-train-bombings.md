@@ -45,7 +45,7 @@ The July 11, 2006 bombings were among the most lethal terrorist attacks in moder
 
 Coming two years before the far larger 2008 Mumbai attacks, the train bombings contributed to a hardening of Indian public and official attitudes toward cross-border militancy and shaped the trajectory of India–Pakistan relations for years afterward. The protracted collapse of the criminal case — from conviction in 2015 to blanket acquittal in 2025 — also became a widely cited example of the difficulty of securing durable justice in complex terrorism prosecutions.
 
-The attack was one of several tests of state and international response mechanisms in the summer of 2006, unfolding within days of the outbreak of the [2006 Lebanon War]({{ '/news/history-politics/2006-lebanon-war/' | relative_url }}) and amid the year's wider pattern of regional violence, from [Darfur]({{ '/news/history-politics/darfur-genocide-crisis/' | relative_url }}) to [East Timor]({{ '/news/history-politics/east-timor-violence-australian-intervention/' | relative_url }}).
+The attack was one of several tests of state and international response mechanisms in the summer of 2006, unfolding within days of the outbreak of the [2006 Lebanon War]({{ '/news/history-politics/2006-lebanon-war/' | relative_url }}) and weeks before the disruption of the [2006 transatlantic aircraft plot]({{ '/news/history-politics/2006-transatlantic-aircraft-plot/' | relative_url }}), amid the year's wider pattern of regional violence, from [Darfur]({{ '/news/history-politics/darfur-genocide-crisis/' | relative_url }}) to [East Timor]({{ '/news/history-politics/east-timor-violence-australian-intervention/' | relative_url }}).
 
 ## Sources
 
