@@ -29,6 +29,7 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-04-30 | 2006 Housing Market Peak & Subprime Warning Signs | Society & Economics | [file]({{ '/news/society-economics/2006-housing-market-peak/' | relative_url }}) |
 | 2006-05-01 | The 2006 U.S. immigration-reform protests | Society & Economics | [file]({{ '/news/society-economics/2006-immigration-reform-protests/' | relative_url }}) |
 | 2006-05-17 | Barcelona wins the UEFA Champions League Final | Arts & Culture | [file]({{ '/news/arts-culture/champions-league-final-2006/' | relative_url }}) |
+| 2006-05-19 | The Da Vinci Code film adaptation released | Arts & Culture | [file]({{ '/news/arts-culture/the-da-vinci-code-film/' | relative_url }}) |
 | 2006-05-24 | *An Inconvenient Truth* released | Arts & Culture | [file]({{ '/news/arts-culture/an-inconvenient-truth/' | relative_url }}) |
 | 2006-05-25 | Enron executives convicted | Society & Economics | [file]({{ '/news/society-economics/enron-verdict-2006/' | relative_url }}) |
 | 2006-05-28 | East Timor violence and Australian intervention | History & Politics | [file]({{ '/news/history-politics/east-timor-violence-australian-intervention/' | relative_url }}) |
@@ -40,6 +41,7 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-06-17 | Shakira's "Hips Don't Lie" tops the charts | Arts & Culture | [file]({{ '/news/arts-culture/shakira-2006-music-breakthrough/' | relative_url }}) |
 | 2006-06-23 | Aaron Spelling dies | People | [file]({{ '/news/people/aaron-spelling/' | relative_url }}) |
 | 2006-06-25 | Warren Buffett pledges his fortune to charity | Society & Economics | [file]({{ '/news/society-economics/buffett-philanthropy-pledge/' | relative_url }}) |
+| 2006-06-28 | Superman Returns premieres | Arts & Culture | [file]({{ '/news/arts-culture/superman-returns/' | relative_url }}) |
 | 2006-06-30 | The Devil Wears Prada released | Arts & Culture | [file]({{ '/news/arts-culture/the-devil-wears-prada-2006/' | relative_url }}) |
 | 2006-06-30 | Darfur genocide crisis and international response | History & Politics | [file]({{ '/news/history-politics/darfur-genocide-crisis/' | relative_url }}) |
 | 2006-07-07 | Pirates of the Caribbean: Dead Man's Chest released | Arts & Culture | [file]({{ '/news/arts-culture/pirates-of-the-caribbean-dead-mans-chest/' | relative_url }}) |
@@ -50,6 +52,7 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-07-14 | Crude oil prices surge to record highs | Society & Economics | [file]({{ '/news/society-economics/2006-crude-oil-prices/' | relative_url }}) |
 | 2006-07-14 | The 2006 Climate & Energy Nexus | Society & Economics | [file]({{ '/news/society-economics/2006-climate-energy-nexus/' | relative_url }}) |
 | 2006-07-15 | Twitter launched | Science & Technology | [file]({{ '/news/science-technology/twitter-launch/' | relative_url }}) |
+| 2006-07-26 | Little Miss Sunshine released | Arts & Culture | [file]({{ '/news/arts-culture/little-miss-sunshine/' | relative_url }}) |
 | 2006-08-10 | The 2006 transatlantic aircraft plot is foiled | History & Politics | [file]({{ '/news/history-politics/2006-transatlantic-aircraft-plot/' | relative_url }}) |
 | 2006-08-22 | Perelman proves the Poincaré conjecture and declines the Fields Medal | Science & Technology | [file]({{ '/news/science-technology/poincare-perelman-fields-medal/' | relative_url }}) |
 | 2006-08-24 | Pluto reclassified as a dwarf planet | Science & Technology | [file]({{ '/news/science-technology/pluto-dwarf-planet/' | relative_url }}) |
