@@ -33,6 +33,7 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-05-19 | The Da Vinci Code film adaptation released | Arts & Culture | [file]({{ '/news/arts-culture/the-da-vinci-code-film/' | relative_url }}) |
 | 2006-05-24 | *An Inconvenient Truth* released | Arts & Culture | [file]({{ '/news/arts-culture/an-inconvenient-truth/' | relative_url }}) |
 | 2006-05-25 | Enron executives convicted | Society & Economics | [file]({{ '/news/society-economics/enron-verdict-2006/' | relative_url }}) |
+| 2006-05-27 | May 2006 Java earthquake | History & Politics | [file]({{ '/news/history-politics/java-earthquake-2006/' | relative_url }}) |
 | 2006-05-28 | East Timor violence and Australian intervention | History & Politics | [file]({{ '/news/history-politics/east-timor-violence-australian-intervention/' | relative_url }}) |
 | 2006-06-01 | H5N1 avian influenza spreads globally | Science & Technology | [file]({{ '/news/science-technology/h5n1-avian-influenza-2006/' | relative_url }}) |
 | 2006-06-03 | Montenegro becomes independent | History & Politics | [file]({{ '/news/history-politics/montenegro-independence/' | relative_url }}) |
@@ -53,6 +54,7 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-07-14 | Crude oil prices surge to record highs | Society & Economics | [file]({{ '/news/society-economics/2006-crude-oil-prices/' | relative_url }}) |
 | 2006-07-14 | The 2006 Climate & Energy Nexus | Society & Economics | [file]({{ '/news/society-economics/2006-climate-energy-nexus/' | relative_url }}) |
 | 2006-07-15 | Twitter launched | Science & Technology | [file]({{ '/news/science-technology/twitter-launch/' | relative_url }}) |
+| 2006-07-23 | 2006 Tour de France and the Landis affair | Arts & Culture | [file]({{ '/news/arts-culture/2006-tour-de-france/' | relative_url }}) |
 | 2006-07-26 | Little Miss Sunshine released | Arts & Culture | [file]({{ '/news/arts-culture/little-miss-sunshine/' | relative_url }}) |
 | 2006-07-28 | Mel Gibson arrested for DUI, makes antisemitic remarks | People | [file]({{ '/news/people/mel-gibson-dui-arrest/' | relative_url }}) |
 | 2006-07-31 | Fidel Castro steps down, transferring power to Raúl | History & Politics | [file]({{ '/news/history-politics/fidel-castro-steps-down/' | relative_url }}) |
@@ -76,6 +78,7 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-11-17 | *Casino Royale* released | Arts & Culture | [file]({{ '/news/arts-culture/casino-royale-daniel-craig/' | relative_url }}) |
 | 2006-11-20 | Robert Altman dies | People | [file]({{ '/news/people/robert-altman/' | relative_url }}) |
 | 2006-11-23 | Alexander Litvinenko poisoned in London | History & Politics | [file]({{ '/news/history-politics/litvinenko-poisoning/' | relative_url }}) |
+| 2006-12-01 | Doha hosts the 2006 Asian Games | Arts & Culture | [file]({{ '/news/arts-culture/2006-asian-games-doha/' | relative_url }}) |
 | 2006-12-10 | Augusto Pinochet dies | People | [file]({{ '/news/people/augusto-pinochet/' | relative_url }}) |
 | 2006-12-16 | *Time* names "You" Person of the Year | Society & Economics | [file]({{ '/news/society-economics/time-you-person-of-the-year/' | relative_url }}) |
 | 2006-12-25 | James Brown dies | People | [file]({{ '/news/people/james-brown/' | relative_url }}) |
@@ -83,5 +86,5 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-12-30 | Saddam Hussein executed | History & Politics | [file]({{ '/news/history-politics/saddam-hussein-execution/' | relative_url }}) |
 | 2006-12-31 | The Web 2.0 Revolution of 2006 | Science & Technology | [file]({{ '/news/science-technology/2006-web-2-0-revolution/' | relative_url }}) |
 
-> Generated from 64 knowledge-table rows; all 64 resolve to dedicated topic files. Year-spanning analytical topics are anchored to a representative dated milestone: the housing-market peak to the April 2006 home-price peak, the climate-and-energy nexus to the July 14 record oil price, the Web 2.0 revolution to a December 31 year-end synthesis, the H5N1 global spread to its mid-2006 peak, the Iran nuclear crisis to Iran's April 11 enrichment announcement, Federer's peak season to his first French Open final run in early June, and the year-long Darfur genocide crisis to a June 30 mid-crisis point between the May 5 Darfur Peace Agreement and the August 31 UN Resolution 1706.
+> Generated from 73 knowledge-table rows; all 73 resolve to dedicated topic files. Year-spanning analytical topics are anchored to a representative dated milestone: the housing-market peak to the April 2006 home-price peak, the climate-and-energy nexus to the July 14 record oil price, the Web 2.0 revolution to a December 31 year-end synthesis, the H5N1 global spread to its mid-2006 peak, the Iran nuclear crisis to Iran's April 11 enrichment announcement, Federer's peak season to his first French Open final run in early June, and the year-long Darfur genocide crisis to a June 30 mid-crisis point between the May 5 Darfur Peace Agreement and the August 31 UN Resolution 1706.
 <!-- END GENERATED: timeline -->
