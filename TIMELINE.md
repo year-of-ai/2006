@@ -64,6 +64,7 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-09-01 | 2006 technology boom: Web 2.0 IPOs and corporate deals | Society & Economics | [file]({{ '/news/society-economics/tech-ipo-wave/' | relative_url }}) |
 | 2006-09-04 | Steve Irwin dies | People | [file]({{ '/news/people/steve-irwin/' | relative_url }}) |
 | 2006-09-05 | Facebook launches News Feed and opens registration | Science & Technology | [file]({{ '/news/science-technology/facebook-news-feed-2006/' | relative_url }}) |
+| 2006-09-06 | Vivendi acquires BMG Music Publishing | Society & Economics | [file]({{ '/news/society-economics/vivendi-bmg-music-publishing-acquisition/' | relative_url }}) |
 | 2006-09-19 | Thai military coup deposes Thaksin | History & Politics | [file]({{ '/news/history-politics/2006-thai-coup/' | relative_url }}) |
 | 2006-10-09 | North Korea's first nuclear test | History & Politics | [file]({{ '/news/history-politics/north-korea-nuclear-test/' | relative_url }}) |
 | 2006-10-09 | Google acquires YouTube | Science & Technology | [file]({{ '/news/science-technology/google-acquires-youtube/' | relative_url }}) |
