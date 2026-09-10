@@ -36,6 +36,7 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-05-27 | May 2006 Java earthquake | History & Politics | [file]({{ '/news/history-politics/java-earthquake-2006/' | relative_url }}) |
 | 2006-05-28 | East Timor violence and Australian intervention | History & Politics | [file]({{ '/news/history-politics/east-timor-violence-australian-intervention/' | relative_url }}) |
 | 2006-06-01 | H5N1 avian influenza spreads globally | Science & Technology | [file]({{ '/news/science-technology/h5n1-avian-influenza-2006/' | relative_url }}) |
+| 2006-06-01 | Blu-ray and HD-DVD format war begins | Science & Technology | [file]({{ '/news/science-technology/blu-ray-hd-dvd-format-war/' | relative_url }}) |
 | 2006-06-03 | Montenegro becomes independent | History & Politics | [file]({{ '/news/history-politics/montenegro-independence/' | relative_url }}) |
 | 2006-06-04 | Roger Federer's peak season | People | [file]({{ '/news/people/roger-federer/' | relative_url }}) |
 | 2006-06-15 | Artificial Intelligence and Robotics Advances | Science & Technology | [file]({{ '/news/science-technology/ai-robotics-2006/' | relative_url }}) |
@@ -47,6 +48,7 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-06-30 | The Devil Wears Prada released | Arts & Culture | [file]({{ '/news/arts-culture/the-devil-wears-prada-2006/' | relative_url }}) |
 | 2006-06-30 | Darfur genocide crisis and international response | History & Politics | [file]({{ '/news/history-politics/darfur-genocide-crisis/' | relative_url }}) |
 | 2006-07-07 | Pirates of the Caribbean: Dead Man's Chest released | Arts & Culture | [file]({{ '/news/arts-culture/pirates-of-the-caribbean-dead-mans-chest/' | relative_url }}) |
+| 2006-07-08 | MySpace reaches its social-networking peak | Science & Technology | [file]({{ '/news/science-technology/myspace-peak/' | relative_url }}) |
 | 2006-07-09 | Italy wins the FIFA World Cup | Arts & Culture | [file]({{ '/news/arts-culture/fifa-world-cup-2006/' | relative_url }}) |
 | 2006-07-09 | Zinedine Zidane's final season and retirement | People | [file]({{ '/news/people/zinedine-zidane/' | relative_url }}) |
 | 2006-07-11 | Mumbai suburban train bombings | History & Politics | [file]({{ '/news/history-politics/mumbai-train-bombings/' | relative_url }}) |
@@ -66,6 +68,7 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-09-05 | Facebook launches News Feed and opens registration | Science & Technology | [file]({{ '/news/science-technology/facebook-news-feed-2006/' | relative_url }}) |
 | 2006-09-06 | Vivendi acquires BMG Music Publishing | Society & Economics | [file]({{ '/news/society-economics/vivendi-bmg-music-publishing-acquisition/' | relative_url }}) |
 | 2006-09-19 | Thai military coup deposes Thaksin | History & Politics | [file]({{ '/news/history-politics/2006-thai-coup/' | relative_url }}) |
+| 2006-10-01 | Record wave of corporate mergers and acquisitions | Society & Economics | [file]({{ '/news/society-economics/corporate-mergers-acquisitions-wave/' | relative_url }}) |
 | 2006-10-09 | North Korea's first nuclear test | History & Politics | [file]({{ '/news/history-politics/north-korea-nuclear-test/' | relative_url }}) |
 | 2006-10-09 | Google acquires YouTube | Science & Technology | [file]({{ '/news/science-technology/google-acquires-youtube/' | relative_url }}) |
 | 2006-10-12 | Orhan Pamuk wins the Nobel Prize in Literature | Arts & Culture | [file]({{ '/news/arts-culture/orhan-pamuk-nobel-literature/' | relative_url }}) |
@@ -87,5 +90,5 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-12-30 | Saddam Hussein executed | History & Politics | [file]({{ '/news/history-politics/saddam-hussein-execution/' | relative_url }}) |
 | 2006-12-31 | The Web 2.0 Revolution of 2006 | Science & Technology | [file]({{ '/news/science-technology/2006-web-2-0-revolution/' | relative_url }}) |
 
-> Generated from 73 knowledge-table rows; all 73 resolve to dedicated topic files. Year-spanning analytical topics are anchored to a representative dated milestone: the housing-market peak to the April 2006 home-price peak, the climate-and-energy nexus to the July 14 record oil price, the Web 2.0 revolution to a December 31 year-end synthesis, the H5N1 global spread to its mid-2006 peak, the Iran nuclear crisis to Iran's April 11 enrichment announcement, Federer's peak season to his first French Open final run in early June, and the year-long Darfur genocide crisis to a June 30 mid-crisis point between the May 5 Darfur Peace Agreement and the August 31 UN Resolution 1706.
+> Generated from 77 knowledge-table rows; all 77 resolve to dedicated topic files. Year-spanning analytical topics are anchored to a representative dated milestone: the housing-market peak to the April 2006 home-price peak, the climate-and-energy nexus to the July 14 record oil price, the Web 2.0 revolution to a December 31 year-end synthesis, the H5N1 global spread to its mid-2006 peak, the Iran nuclear crisis to Iran's April 11 enrichment announcement, Federer's peak season to his first French Open final run in early June, the year-long Darfur genocide crisis to a June 30 mid-crisis point between the May 5 Darfur Peace Agreement and the August 31 UN Resolution 1706, MySpace's 2006 peak to the July 8 week it became the most-visited U.S. website, the Blu-ray/HD-DVD format war to the June 2006 U.S. player launches, and the record corporate M&A wave to the October Google–YouTube deal.
 <!-- END GENERATED: timeline -->

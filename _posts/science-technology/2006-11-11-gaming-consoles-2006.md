@@ -60,3 +60,7 @@ Both console launches also illustrate 2006's positioning as a moment of inflecti
 - [IGN: PlayStation 3 Launch Coverage](https://www.ign.com/articles/2006/11/10/ps3-launch-day-coverage)
 - [GameSpot: Wii Launch Review](https://www.gamespot.com/reviews/wii-review/1900-6161569/)
 - [Blu-ray Disc – Wikipedia](https://en.wikipedia.org/wiki/Blu-ray)
+
+## Related
+
+- [Blu-ray vs. HD-DVD Format War]({{ '/news/science-technology/blu-ray-hd-dvd-format-war/' | relative_url }}) — the PlayStation 3's built-in Blu-ray drive proved decisive in the 2006 high-definition format war

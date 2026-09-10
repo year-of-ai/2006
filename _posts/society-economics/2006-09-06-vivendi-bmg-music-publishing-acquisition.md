@@ -62,3 +62,7 @@ The deal also intersected with the broader economic environment of mid-2006: the
 - [Vivendi Buys BMG Publishing — Forbes](https://www.forbes.com/2006/09/05/vivendi-bmg-music_cx_lh_0905music.html)
 - [BMG Music Publishing — Wikipedia](https://en.wikipedia.org/wiki/BMG_Music_Publishing)
 - [Bertelsmann — Wikipedia](https://en.wikipedia.org/wiki/Bertelsmann)
+
+## Related
+
+- [2006 Corporate M&A Wave]({{ '/news/society-economics/corporate-mergers-acquisitions-wave/' | relative_url }}) — the Vivendi–BMG deal was one of the media transactions in 2006's record merger wave
