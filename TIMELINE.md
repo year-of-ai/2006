@@ -61,6 +61,7 @@ A chronological record of notable events of the year 2006, sourced from the know
 | 2006-07-28 | Mel Gibson arrested for DUI, makes antisemitic remarks | People | [file]({{ '/news/people/mel-gibson-dui-arrest/' | relative_url }}) |
 | 2006-07-31 | Fidel Castro steps down, transferring power to Raúl | History & Politics | [file]({{ '/news/history-politics/fidel-castro-steps-down/' | relative_url }}) |
 | 2006-08-10 | The 2006 transatlantic aircraft plot is foiled | History & Politics | [file]({{ '/news/history-politics/2006-transatlantic-aircraft-plot/' | relative_url }}) |
+| 2006-08-14 | The 2006 Sony laptop battery recall begins | Science & Technology | [file]({{ '/news/science-technology/sony-laptop-battery-recall-2006/' | relative_url }}) |
 | 2006-08-22 | Perelman proves the Poincaré conjecture and declines the Fields Medal | Science & Technology | [file]({{ '/news/science-technology/poincare-perelman-fields-medal/' | relative_url }}) |
 | 2006-08-24 | Pluto reclassified as a dwarf planet | Science & Technology | [file]({{ '/news/science-technology/pluto-dwarf-planet/' | relative_url }}) |
 | 2006-09-01 | 2006 technology boom: Web 2.0 IPOs and corporate deals | Society & Economics | [file]({{ '/news/society-economics/tech-ipo-wave/' | relative_url }}) |
